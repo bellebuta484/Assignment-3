@@ -476,11 +476,11 @@
   </tr>
 </table>
 
-<h5 style="background-color:Grey;">SCOPE OF POSITION</h5>
+<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
 
 <p>The Tech Project Lead is pivotal to achieving our strategic vision for a new lifestyle Health and Fitness Mobile app. Reporting to the Project Owner, your role will be to manage a team of 3 developers/designers and execute the vision of our App. You will be responsible for all app development tasks including front end development, back end development, design, testing and maintenance. You will also be required to prepare and meet financial targets related to app development and ensure development timeframes are met at a minimum.</p>
 
-<h5 style="background-color:Grey;">POSITION RESPONSIBILITIES</h5>
+<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
 
 <ul>
   <li>Mentor and lead a small, dedicated team of 3 (Mobile App Developer, Full Stack Developer and Designer)</li>
@@ -497,8 +497,19 @@
 <h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
 
 <table style="width:100%">
-  <tr><th>Internal</th></tr><tr><td>Full Stack Developer</td></tr><tr><td>Designer</td></tr><tr><td>Mobile Developer</td></tr>
-  <tr><th>External</th></tr><tr><td>Software Provider</td></tr><tr><td>Investors</td></tr>
+  <tr>
+    <th>Internal</th>
+    <th>External</th>
+  </tr>
+  <tr>
+    <td>Full Stack Developer</td>
+    <td>Designer</td>
+    <td>Mobile Developer</td>
+  </tr>
+  <tr>
+    <td>Software Provider</td>
+    <td>Investors</td>
+  </tr>
 </table>
 
 
