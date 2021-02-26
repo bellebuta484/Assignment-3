@@ -22,79 +22,13 @@
 
 <p>STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709)</p>
 
-GITHUB REPOSITORY:		[Our Repo](https://github.com/bellebuta484/Assignment-3.git)
+<p>GITHUB REPOSITORY:[Our Repo](https://github.com/bellebuta484/Assignment-3.git)</p>
 
-TEAM NAME: 			One Goal
+<p>TEAM NAME: 			One Goal</p>
 
-DATE OF SUBMISSION :		 
+<p>DATE OF SUBMISSION :	26 February, 2021</p> 
 
-# Table of Contents 
-
-## TEAM PROFILE
-
-### Personal Information
-
-### Group Processes
-
-### Career Plans
-
-### Tools 
-
-## PROJECT OVERVIEW
-
-### Topic
-
-### Motivation 
-
-### Landscape
-
-## PROJECT DETAIL
-
-### Aim
-
-### Plans and Progress
-
-### Define Concept 
-
-### Need Analysis (Scope and Limitations) 
-
-### Design 
-
-### Choose Technology  
-
-### Development
-
-### Internal Testing 
-
-### User Interface Testing 
-
-### Launch 
-
-### Support 
-
-### Roles 
-
-### Risks 
-
-### Group Processes & Communication 
-
-## SKILLS & JOBS 
-
-### Position Descriptions 
-
-## GROUP REFLECTION 
-
-### Personal Reflection 
-
-### Group Reflection  
-
-## REFERENCES AND APPENDIX 
-
-## TEAM PROFILE 
-
-### Personal Information 
-
-**Kristie Magazinovic** 
+<h7>Kristie Magazinovic</h7> 
 
 [Personal page](https://kristiem88.github.io/Assignment1/)                                                                               
 I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a farm and enjoy horse riding, camping, travelling, and spending time with my dogs. I also sing and play guitar in my spare time (cheaper than therapy) 
