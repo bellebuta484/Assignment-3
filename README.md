@@ -504,11 +504,9 @@
   <tr><td>Full Stack Developer</td></tr> 
   <tr><td>Designer</td></tr>
   <tr><td>Mobile Developer</td></tr>
-  <tr>
-    <td>Software Provider</td></tr>
-  <tr><td>Investors</td>
-    
-  </tr>
+  
+  <tr><td>Software Provider</td></tr>
+  <tr><td>Investors</td></tr>
 </table>
 
 
