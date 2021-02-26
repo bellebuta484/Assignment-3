@@ -158,11 +158,11 @@
 
 <p>The primary aim of this project is to produce a health and fitness app that meets the specific requirements of the target audience. These requirements are to manage weight loss and weight maintenance, set specific food intake goals and track calories and macronutrient intakes and set exercise goals and track physical performance. In order to achieve our overarching, aim we developed a list of tangible goals to support the development of our mobile app over the 15 week period as follows: </p>
 
-<p><b>Define Scope</b></p>  : While the aim is to build an all-encompassing health and fitness app the 15 week timeframe will not allow for all desired items to be made available in the 1.0 release. Therefore, a thorough need analysis will be carried out to prioritise all desired features. All potential app features will be prioritised with the most important being included in the initial release and further features being listed for later 2.0 and 3.0 releases. This will ensure the size of the project is more manageable, focus is maintained, and a viable product is available for release by the end of the 16 weeks.  </p>
+<p><b>Define Scope</b>  : While the aim is to build an all-encompassing health and fitness app the 15 week timeframe will not allow for all desired items to be made available in the 1.0 release. Therefore, a thorough need analysis will be carried out to prioritise all desired features. All potential app features will be prioritised with the most important being included in the initial release and further features being listed for later 2.0 and 3.0 releases. This will ensure the size of the project is more manageable, focus is maintained, and a viable product is available for release by the end of the 16 weeks.</p>
 
-<p><b>Create a user-interface design</b></p> : Although design may be considered a final step in the process, the design of a mobile app is imperative to the customer experience. Complicated features and nuanced technical details will determine the databases and programming languages however the customer experience is key to the success and usability of an app. This can only be reached with a design that facilitates ease of use and creates positive engagement with the customer. Developing a simple easy to use interface design first will assist in creating customer loyalty and retention throughout later releases of the app. Presentation, usability and simplification will ensure the apps success. </p> 
+<p><b>Create a user-interface design</b> : Although design may be considered a final step in the process, the design of a mobile app is imperative to the customer experience. Complicated features and nuanced technical details will determine the databases and programming languages however the customer experience is key to the success and usability of an app. This can only be reached with a design that facilitates ease of use and creates positive engagement with the customer. Developing a simple easy to use interface design first will assist in creating customer loyalty and retention throughout later releases of the app. Presentation, usability and simplification will ensure the apps success.</p> 
 
-<p><b>Choose the right software</b></p> : The technology chosen for our mobile app development will determine how the app is developed and how users interact with it. Selecting the wrong technology can be a costly mistake, resulting in inaccessibility or poor performance (Haynes, 2021). The team will look at the pros and cons of native vs web apps, programming languages, app development sites and database software to ensure all avenues are explored to find the most suitable application available. </p>
+<p><b>Choose the right software</b> : The technology chosen for our mobile app development will determine how the app is developed and how users interact with it. Selecting the wrong technology can be a costly mistake, resulting in inaccessibility or poor performance (Haynes, 2021). The team will look at the pros and cons of native vs web apps, programming languages, app development sites and database software to ensure all avenues are explored to find the most suitable application available.</p>
 
 <h3> Plans and Progress. </h3>
 
@@ -475,6 +475,35 @@
     <td>Yes</td>
   </tr>
 </table>
+
+<h5 style="background-color:Grey;">SCOPE OF POSITION</h5>
+
+<p>The Tech Project Lead is pivotal to achieving our strategic vision for a new lifestyle Health and Fitness Mobile app. Reporting to the Project Owner, your role will be to manage a team of 3 developers/designers and execute the vision of our App. You will be responsible for all app development tasks including front end development, back end development, design, testing and maintenance. You will also be required to prepare and meet financial targets related to app development and ensure development timeframes are met at a minimum.</p>
+
+<h5 style="background-color:Grey;">POSITION RESPONSIBILITIES</h5>
+
+<ul>
+  <li>Mentor and lead a small, dedicated team of 3 (Mobile App Developer, Full Stack Developer and Designer)</li>
+  <li>Oversee all day to day operations from coding, build pipeline, certificate management, security, testing and optimizing performances across Android and iOS platforms. </li>
+  <li>Efficiently provide realistic financial and build pipeline estimate's, plan and oversee development tasks for the wider mobile team. </li>
+  <li>Consult with key technology stakeholders (internal and external, API owners, etc.) to drive development including enhancements and changes to existing offerings.</li>
+  <li>Provide technical expertise and leadership in areas of architecture, design, testing, and implementation.</li>
+  <li>Prepare and deliver progress reports to Project owner and investors.</li> 
+  <li>Oversee and lead all testing programs within the given timeframes.</li> 
+  <li>Develop and commit to a robust Quality Assurance regime </li>
+  <li>Develop and oversee a Post “Go Live” maintenance regime </li>  
+</ul>  
+
+<h5 style="background-color:Grey;">KEY STAKEHOLDERS</h5>
+
+
+
+
+
+
+
+
+ 
 
 
 </body>
