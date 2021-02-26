@@ -494,7 +494,7 @@
   <li>Develop and oversee a Post “Go Live” maintenance regime </li>  
 </ul>  
 
-<h5 style="background-color:Grey;">KEY STAKEHOLDERS</h5>
+<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
 
 <table style="width:100%">
   <tr><th>Internal</th></tr><tr><td>Full Stack Developer</td></tr><tr><td>Designer</td></tr><tr><td>Mobile Developer</td></tr>
