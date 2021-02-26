@@ -498,13 +498,12 @@
 
 <table style="width:100%">
   <tr>
-    <th>Internal</th>
-    <th>External</th> 
+    <th>Internal</th> 
   </tr>
   <tr><td>Full Stack Developer</td></tr> 
   <tr><td>Designer</td></tr>
   <tr><td>Mobile Developer</td></tr>
-  
+    <th>External</th>
   <tr><td>Software Provider</td></tr>
   <tr><td>Investors</td></tr>
 </table>
