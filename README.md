@@ -503,12 +503,15 @@
   </tr>
   <tr>
     <td>Full Stack Developer</td>
-    <td>Designer</td>
-    <td>Mobile Developer</td>
+    <td>Software Providers</td> 
   </tr>
   <tr>
-    <td>Software Provider</td>
+    <td>Designer</td>
     <td>Investors</td>
+  </tr>
+   <tr>
+    <td>Mobile Developer</td>
+    <td></td>
   </tr>
 </table>
 
