@@ -1,6 +1,6 @@
 <div class="bg-blue-light mb-2">
-  .text-gray-dark on .bg-blue-light
-  </div>
+  
+
 
 # Assignment-3
 
@@ -87,3 +87,5 @@
 ### Personal Information 
 
 
+
+  </div>
