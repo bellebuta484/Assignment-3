@@ -1,18 +1,10 @@
-#fafbfc, $bg-gray-light
+#f1f8ff, $bg-blue-light
 
 <div class="bg-blue-light mb-2">
-  
-
-
-# Assignment-3
-
-</div>
-
-### COSC2196 Introduction to Information Technology 
-
-#### ASSIGNMENT 3: Our Project 
-
-#### GROUP:				Group 1 (One Goal)
+ COSC2196 Introduction to Information Technology 
+ ASSIGNMENT 3: Our Project 
+ GROUP:				Group 1 (One Goal)
+  </div>
 
 #### STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709) 
 
