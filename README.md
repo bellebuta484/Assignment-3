@@ -1,24 +1,28 @@
+#fafbfc, $bg-gray-light
+
 <div class="bg-blue-light mb-2">
   
 
 
 # Assignment-3
 
-# COSC2196 Introduction to Information Technology 
+</div>
 
-# ASSIGNMENT 3: Our Project 
+### COSC2196 Introduction to Information Technology 
 
-# GROUP:				Group 1 (One Goal)
+#### ASSIGNMENT 3: Our Project 
 
-## STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709) 
+#### GROUP:				Group 1 (One Goal)
 
-## GITHUB REPOSITORY:		 https://github.com/bellebuta484/Assignment-3.git 
+#### STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709) 
 
-## GITHUB PAGE URL :		https://bellebuta484.github.io/Assignment-3/. 
+#### GITHUB REPOSITORY:		 https://github.com/bellebuta484/Assignment-3.git 
 
-## TEAM NAME: 			One Goal 
+#### GITHUB PAGE URL :		https://bellebuta484.github.io/Assignment-3/. 
 
-## DATE OF SUBMISSION :		 
+#### TEAM NAME: 			One Goal 
+
+#### DATE OF SUBMISSION :		 
 
 # Table of Contents 
 
@@ -88,4 +92,4 @@
 
 
 
-  </div>
+  
