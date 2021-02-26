@@ -1,3 +1,6 @@
+<div class="bg-blue-light mb-2">
+  .text-gray-dark on .bg-blue-light
+
 # Assignment-3
 
 # COSC2196 Introduction to Information Technology 
@@ -81,3 +84,5 @@
 ## TEAM PROFILE 
 
 ### Personal Information 
+
+</div>
