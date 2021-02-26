@@ -451,7 +451,7 @@
 
 <h2>SKILLS & JOBS</h2> 
 
-<h4>Project Lead (Tech)</h4> 
+<h3>Project Lead (Tech)</h3> 
 
 <p>In order to ensure the team remains focused, organized and committed, the most crucial appointment would be an experienced project lead. The Project lead will be responsible for the planning coordination, requirements gathering, business analysis, specifications development, monitoring, reporting, and leadership of the project. They will prove a key link between the team and investors and should have experience with high level stakeholders. The ideal candidate would have a proven track record of leading small teams in the development of a native mobile application.</p> 
 
@@ -477,11 +477,9 @@
 </table>
 
 <h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
-
 <p>The Tech Project Lead is pivotal to achieving our strategic vision for a new lifestyle Health and Fitness Mobile app. Reporting to the Project Owner, your role will be to manage a team of 3 developers/designers and execute the vision of our App. You will be responsible for all app development tasks including front end development, back end development, design, testing and maintenance. You will also be required to prepare and meet financial targets related to app development and ensure development timeframes are met at a minimum.</p>
 
 <h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
-
 <ul>
   <li>Mentor and lead a small, dedicated team of 3 (Mobile App Developer, Full Stack Developer and Designer)</li>
   <li>Oversee all day to day operations from coding, build pipeline, certificate management, security, testing and optimizing performances across Android and iOS platforms. </li>
@@ -495,7 +493,6 @@
 </ul>  
 
 <h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
-
 <table style="width:100%">
   <tr>
     <th>Internal</th>
@@ -540,7 +537,235 @@
 </ul>
 
 
+<h3>Full Stack Developer </h3>
+<p>The role of the full stack developer will be the key technical expertise on the project. While the Technical Project Lead will oversee all facets of the project, the Full stack Developer will be the key subject matter expert on all technical complexities or nuances that arise. They will primarily focus on back end development while overseeing front end development, mentoring and guiding the Mobile App Developer (Front end). The ideal candidate has experience with both back end development and front end development of mobile apps.</p>
+
+<h4>POSITION DESCRIPTION </h4>
+<table style="width:100%">
+  <tr>
+    <th>Position Title:</th>
+    <th>Department:</th> 
+    <th>People Accountability</th>
+    <th>Report Title:</th>
+    <th>Work Location:</th> 
+    <th>Financial($) Accountability</th>
+  </tr>
+  <tr>
+    <td>Full Stack Developer </td>
+    <td>IT</td>
+    <td>No</td>
+    <td>Techncal Project Lead</td>
+    <td>IT Ofiice</td>
+    <td>No</td>
+  </tr>
+</table>
+
+<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
+<p>The Full Stack developer is a crucial role to the development of the health and fitness mobile app. Reporting to the Technical Project Lead, your role will be to lead technical development focusing primarily on back end and supporting front end development. You will also be required to prepare technical reports and serve as the key support role for the Technical Project Lead.  </p>
  
+<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
+<ul>
+  <li>Support Technical Project Lead in all aspects of technical development and serve as 2IC where required.</li>
+  <li>Data Management </li>
+  <li>Developing back end mobile app architecture and supporting in front end architecture. </li>
+  <li>Designing and developing API’s </li>
+  <li>Ensure that software is user friendly, stable, secure, resilient, documented, and maintainable </li>
+  <li>Make recommendations for future development, including performance improvements, technical debt servicing, whilst incorporating new product features and ensuring best practice solution design. </li>
+  <li>Oversee all aspects of internal testing and user interface testing. </li>
+  <li>Manage all aspects of Quality Assurance. </li>
+</ul>
+
+<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
+<table style="width:100%">
+  <tr>
+    <th>Internal</th>
+    <th>External</th>
+  </tr>
+  <tr>
+    <td>Technical Lead</td>
+    <td>Software Providers</td> 
+  </tr>
+  <tr>
+    <td>Designer</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Mobile Developer</td>
+    <td></td>
+  </tr>
+</table>
+
+<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<ul>
+  <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field. (Postgraduate qualifications Highly regarded) </li>
+  <li>Minimum 5 years of Mobile App development experience </li>
+  <li>Minimum 5 years’ experience in developing high quality secure hybrid Mobile Applications for Android and iOS </li>
+  <li>Experience using MySQL, Python, Java, MongoBD and MySQL. </li>
+</ul>
+
+<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<ul>
+  <li>Excellent Communication and collaboration skills.</li> 
+  <li>Ability to solve integration issues to provide solutions that meet requirements while remaining within engineering limitations. </li>
+  <li>Understanding of design principles, software development and coding standards.</li> 
+  <li>Ability to effectively communicate ideas, designs and challenges to the team in concise and relatable terms.</li> 
+  <li>Solid understanding of unit / integration / API tests, test automation and Test Driven Development (TDD).</li> 
+  <li>In depth understanding of Agile principles and DevOps practices. </li>
+  <li>Proficient in server side languages such as Python, and Java. </li>
+  <li>Proficient in JavaScript frameworks such as Angular JS, React and Amber.</li> 
+  <li>Proficient in database technology such as MySQL, Oracle and MongoDB. </li>
+ </ul>
+
+
+<h3>Mobile App Developer (Front End)</h3> 
+<p>The role of the Mobile app developer will be primarily in front end development and coding. With the support of the Full stack developer they will work most closely with the UX/UI designer to bring their design concepts to fruition.</p>
+
+<h4>POSITION DESCRIPTION</h4>
+<table style="width:100%">
+  <tr>
+    <th>Position Title:</th>
+    <th>Department:</th> 
+    <th>People Accountability</th>
+    <th>Report Title:</th>
+    <th>Work Location:</th> 
+    <th>Financial($) Accountability</th>
+  </tr>
+  <tr>
+    <td>Mobile App Develpoer (Front End)</td>
+    <td>IT</td>
+    <td>No</td>
+    <td>Technical Project Lead</td>
+    <td>IT Ofiice</td>
+    <td>No</td>
+  </tr>
+</table>
+
+<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
+<p>The Mobile App Developer (Front End) is a key role to the user interface development of the health and fitness mobile app. Reporting to the Technical Project Lead, your role will be to lead technical development focusing primarily on front end development tasks.   </p>
+ 
+<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
+<ul>
+  <li>Own all aspects of front end development with a keen focus on the customer experience  </li>
+  <li>Work closely with UI/UX designer to bring design mockups, wireframes and overall design concepts to life.</li> 
+  <li>Aid in design, and build efficient, testable and maintainable code, ensuring you solve problems without over-engineering your solution.</li> 
+  <li>Preempt potential issues in user experience and provide recommendations on code based solutions.</li> 
+  <li>Integrate user-facing elements with server-side APIs.</li> 
+  <li>Prepare technical specifications and documentation. </li>
+  <li>Work across both iOS and Android apps.</li> 
+</ul>
+
+<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
+<table style="width:100%">
+  <tr>
+    <th>Internal</th>
+    <th>External</th>
+  </tr>
+  <tr>
+    <td>Technical Project Lead</td>
+    <td>Software Providers</td> 
+  </tr>
+  <tr>
+    <td>Designer</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Mobile Developer</td>
+    <td></td>
+  </tr>
+</table>
+
+<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<ul>
+  <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field. </li>
+  <li>Minimum 2 years of front-end Mobile App development experience. </li>
+  <li>Proven experience building, testing and releasing mobile apps Focusing on front end development. </li>
+</ul>
+
+<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<ul>
+  <li>Excellent Communication and collaboration skills. </li>
+  <li>Strong understanding of JavaScript programming (jQuery and native) </li>
+  <li>Thorough understanding of Android, iOS front end coding</li>
+</ul>
+
+<h3>UI/UX Designer</h3> 
+<p>The User Interface Design of an mobile app greatly the user experience and customer satisfaction. To ensure success of an app and customer retention good design is vital and will ultimately help increase the number of users of the specific application. The UI and UX Design help to win the consumers' confidence and make them use your application or website providing them what they are looking for.</p>
+
+<h4>POSITION DESCRIPTION</h4>
+<table style="width:100%">
+  <tr>
+    <th>Position Title:</th>
+    <th>Department:</th> 
+    <th>People Accountability</th>
+    <th>Report Title:</th>
+    <th>Work Location:</th> 
+    <th>Financial($) Accountability</th>
+  </tr>
+  <tr>
+    <td>UI/UX Designer</td>
+    <td>IT</td>
+    <td>No</td>
+    <td>Technical Project Lead</td>
+    <td>IT Ofiice</td>
+    <td>No</td>
+  </tr>
+</table>
+
+<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
+<p>The UI/UX Designer is a pivitol role in ensuring the customer experience is at the forefront of the development process. Reporting to the Technical Project Lead, your role will be to lead user interface design and promote the customer journey. </p>
+ 
+<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
+<ul>
+ <li>Own all aspects of UI/UX development with a keen focus on the customer experience </li> 
+ <li>Communicate design processes, ideas, and solution to project team members and investors. </li> 
+ <li>Work closely with Mobile App Developer to ensure design concepts are possible and development remains in line with design vision. </li> 
+ <li>Create Original Graphic Designs (i.e. Images, Sketches etc)</li>  
+ <li>Conduct extensive user research and heuristic analysis. </li> 
+ <li>Develop user flows and user journey concepts. </li> 
+ <li>Developing high quality design prototypes for presentation to investors. </li> 
+ <li>Prototype, test and work closely with Front-end Developer to address the nuances of user interaction.</li>  
+ <li>Develop and Oversee User interface testing program.</li>  
+ <li>Identify and troubleshoot UX problems (e.g. mobile responsiveness and accessibility improvements) </li>  
+</ul>
+
+<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
+<table style="width:100%">
+  <tr>
+    <th>Internal</th>
+    <th>External</th>
+  </tr>
+  <tr>
+    <td>Technical Project Lead</td>
+    <td>Software Providers</td> 
+  </tr>
+  <tr>
+    <td>Designer</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Mobile Developer</td>
+    <td></td>
+  </tr>
+</table>
+
+<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<ul>
+  <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field.  </li>
+  <li>Experience working on UI/UX development for iOS and Android </li>
+  <li>Graphic Design Experience. </li>
+</ul>
+
+<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<ul>
+  <li>Excellent Communication and collaboration skills. </li>
+  <li>Understanding of how UI design is implemented across responsive interfaces and some understanding of the backend system / API integration process.</li> 
+  <li>Experience using tools for UX/UI and visual design (i.e. Adobe suite). </li>
+  <li>Demonstrated understanding of best practice in user centric design for web/mobile applications.</li> 
+  <li>Understanding of user journeys, user flows and information architecture. </li>
+  <li>Ability to communicate design processes, ideas, and solutions clearly and effectively to teams and clients.</li> 
+</ul>
+
+
 
 
 </body>
