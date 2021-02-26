@@ -1,5 +1,5 @@
 <html>
-<body>
+<body style="background-color:lightblue;">
   
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-2 d-flex flex-items-center flex-items-center flex-md-items-start">
@@ -14,13 +14,13 @@
 
 
 
-COSC2196 Introduction to Information Technology 
+<p>COSC2196 Introduction to Information Technology</p> 
 
-ASSIGNMENT 3: Our Project 
+<p>ASSIGNMENT 3: Our Project</p>
 
-GROUP:				Group 1 (One Goal)
+<p>GROUP:				Group 1 (One Goal)</p>
 
-STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709)
+<p>STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709)</p>
 
 GITHUB REPOSITORY:		[Our Repo](https://github.com/bellebuta484/Assignment-3.git)
 
