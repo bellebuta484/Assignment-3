@@ -807,7 +807,7 @@ Varshneya R (June 13, 2019), A Step-by-Step Guide To Building Your First Mobile 
 
 <p>Appendix 1 – Landing Page</p> <p><a href="https://sites.google.com/view/onegoal/home">Visit Our Landing Page!</a></p> 
 
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<p><img alt="" src="/images/LandingPageOneGoal.jpg" /></p>
  
 
 
