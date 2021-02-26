@@ -1,7 +1,7 @@
 
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-2 d-flex flex-items-center flex-items-center flex-md-items-start">
-    <img class="width-full avatar mb-2 mb-md-0" src="/images/onegoal.png)" alt="onegoal" />
+    <img class="width-full avatar mb-2 mb-md-0" src="/images/onegoal.png" alt="onegoal" />
   </div>
   <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
     <h1 class="text-normal lh-condensed">One Goal</h1>
@@ -11,7 +11,7 @@
 </div>
 
 
-<span style="color:blue">
+
 COSC2196 Introduction to Information Technology 
 
 ASSIGNMENT 3: Our Project 
@@ -26,6 +26,7 @@ TEAM NAME: 			One Goal
 
 DATE OF SUBMISSION :		 
 
+<span style="color:blue">
 # Table of Contents 
 
 ## TEAM PROFILE
@@ -102,6 +103,7 @@ I am currently studying a Bachelor of Business (Supply Chain and Logistics). Sin
 [Personal Page](https://bellebuta484.github.io/My_PROFILE_20/) 
 I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business Management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who brings laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife 
 
+<span style="color:blue">
 # Group Processes 
 
 The Group worked well as a team in assignment 2 with individual tasks being allocated to team members. The following processes worked well for assignment 2 and will remain in assignment 3 
@@ -122,6 +124,7 @@ Team members will provide feedback on other members work to ensure any missing c
 
 Any uncertainty in an element of the assignment will be immediately deferred to the course tutor by sending an email.
 
+<span style="color:blue">
 # Career Plans 
 
 | **Team Member | Ideal Job | Demand for Role | Job Description | Similarities | Differences | General Skills Required | IT Skills Required | Final Opinion on Role** |
@@ -131,13 +134,14 @@ Any uncertainty in an element of the assignment will be immediately deferred to 
 | Kristie Magazinovic | Head of Supply Chain & Logistics | Supply Chain distribution and procurement managers require a very high skill set level with a limited number of roles available. Future growth in this field is strong and demand for skilled experiences supply chain and logistics professionals remains high.| An Executive level role for a large FMCG company responsible for managing all supply chain functions including procurement, contract management, manufacturing, import/exports & last mile delivery functions. Highly strategic role with a focus on business improvement and creating value in a competitive landscape | There aren’t many similarities in the specific role functions however all roles will rely on IT technologies (software and hardware) to complete daily functions. In terms of skill sets there will be similarities in requirements for communication skills, strategy development skills, knowledge of software systems and an understanding of how Information Technologies impact businesses | The Role is is not an IT specific role nor is it necessarily in the IT industry.  The role is heavily focused on commercial activities and while IT based tasks such as systems development will be an integral part of the role, this is a commercial executive role & follows a more conceptual and financial approach than systematic execution | - Leadership Qualities - High level of Commercial Accumen - People Management Skills - Communication Skills - Strategy Development - Negotiation Skills 
 - Budget preparation and Financial Management | - Knowledge of reporting software such as SQL, and tableau - Knowledge of ERP systems such as SAP and Oracle - Working knowledge - Broad understanding of commercial IT tools such as software, hardware and cloud storage | This is an excellent role for individuals with strong leadership attributes, strong negotiation skills and a high level of business acumen. The future demand for similar positions is strong and many of the IT skills, general skills and even qualifications are highly transferable to other senior and executive business management roles|
 
-  
+<span style="color:blue">  
 # Tools  
 
 In order to create better communication, the team relied heavily on Microsoft Teams. The team discussed the minimal use of GitHub during assignment 2 and endeavoured to utilise it more in assignment 3 in order to gain exposure to the site. All members of the team did feel that Microsoft Teams facilitated better communication, greater efficiency and better report writing. All team meetings were conducted and recorded in Microsoft Teams as this is not an available option in GitHub. All meeting agendas and meeting minutes were easily prepared and uploaded using templates with minimal additional entries. It was easy to refer back to the meeting recording should any items need to be reviewed. The team felt that the use of GitHub did not facilitate the level of collaboration that Microsoft teams enabled as all documents needed to be created in a word document for ease and transferring this to Github would have been duplication of work and is an extremely inefficient process.  
 
 The Team believed the most efficient, consistent and uniform way to manage the project was to heavily rely on Microsoft Teams as it enabled all members to use one platform for meeting, chat communication and document editing and allowed us to work of the same document at the same time. The use of word also allowed us to visualize the best format for the report which would then serve as the template for our HTML webpage. We used the Word document of our report to test how the website could look and then once we were happy with the format we coded to a HTML webpage in Github. The team noted that while Github was a useful tool for sharing code and working collaboratively on the coding elements of app development in order to ensure out virtual team worked as efficiently as possible we relied mostly on Microsoft Teams. 
 
+<span style="color:blue">
 # PROJECT OVERVIEW 
 
  
@@ -180,6 +184,7 @@ Home Workout - No Equipment: 2.7 million installs
 
 It was important to note that apps that contained video workouts were downloaded 65% more than non-video based workout apps and also had 40% more active daily users and were able to generate 15% more revenue (Koetsier, 2020). Many of these apps focus heavily on a specific criteria, Fitbit, MyFitnessPal, Fitness Coach, Home Workout and Muscle Booster workout focus on improving fitness through exercise and offer a plethora of video workouts through the app. Apps such as Better me and Flo are targeted towards women’s health specifically.  
 
+<span style="color:blue">
 # PROJECT DETAILS 
 
 ## Aim  
