@@ -168,6 +168,7 @@
 
 <p> In order to ensure we planned our time efficiently and had a clear concise idea of how our project would be managed the first step we undertook was to research the phases involved in Mobile App development and the time each phase would reasonably take to complete. We developed the following Mobile App Project Phase Pipeline to aid in adequate project management.</p> 
 
+<p><img alt="" src="images/TimelinesOneGoal.jpg " /></p>
 
 
 <h3> 1. Define Concept </h3>
