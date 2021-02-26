@@ -1,5 +1,20 @@
 # Assignment-3
-One Goal
+
+# COSC2196 Introduction to Information Technology 
+
+# ASSIGNMENT 3: Our Project 
+
+# GROUP:				Group 1 (One Goal)
+
+## STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709) 
+
+## GITHUB REPOSITORY:		 https://github.com/bellebuta484/Assignment-3.git 
+
+## GITHUB PAGE URL :		https://bellebuta484.github.io/Assignment-3/. 
+
+## TEAM NAME: 			One Goal 
+
+## DATE OF SUBMISSION :		 
 
 # Table of Contents 
 
