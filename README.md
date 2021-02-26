@@ -497,15 +497,8 @@
 <h5 style="background-color:Grey;">KEY STAKEHOLDERS</h5>
 
 <table style="width:100%">
-  <tr>
-    <th>Internal</th> 
-  </tr>
-  <tr><td>Full Stack Developer</td></tr> 
-  <tr><td>Designer</td></tr>
-  <tr><td>Mobile Developer</td></tr>
-    <th>External</th>
-  <tr><td>Software Provider</td></tr>
-  <tr><td>Investors</td></tr>
+  <tr><th>Internal</th></tr><tr><td>Full Stack Developer</td></tr><tr><td>Designer</td></tr><tr><td>Mobile Developer</td></tr>
+  <tr><th>External</th></tr><tr><td>Software Provider</td></tr><tr><td>Investors</td></tr>
 </table>
 
 
