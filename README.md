@@ -766,6 +766,49 @@
 </ul>
 
 
+<h3>GROUP REFLECTION </h3>
+
+<h4>Personal Reflections </h4>
+
+<p><b>Belle Phimonrat Panaphong</b></p>  
+
+<p>We feel the short number of participants at the beginning of this assignment and left only 2 members to do this project. As we divided the work on the checklist, the progress did not end there. We gather the information that we need for our project contents. I must acknowledge that I was a little hesitant to take on assignments since there were so many. Fortunately, Kristie takes the lead and makes me feel more comfortable with the role I have been assigned to follow and complete. While we have so much workload to complete, I have found plenty of opportunities to learn how to use application building platforms such as Appy Pie, Just In Mind and Swing2app. During the research, I found it very simple and straightforward to create an app as there are lots of free tools available online, easy to use and free. Although it was a shame that there are only two people to do this assignment; otherwise, we could use more ideas from other team members that were down. The communication during this assignment was excellent. Kristie very well organises and well prepares, and easy to work with. </p>  
+
+<p><b>Kristie Magazinovic</b></p> 
+
+<p>Due to the limited resources available to the team with only 2 active team members the progress in development was slow. In hindsight we spent considerable time on the planning stage to determine role breakdowns, direction and create a timeline for the project. Unfortunately, we were only able to produce minimal tangible artifacts including a landing page for lead generation and design mock-ups to show UI/UX interface protypes. I personally found the building of the landing page and the interface design mock-ups to be an interesting experience. Throughout the project it became apparent that simple apps can be developed with user friendly software and require minimal coding. In a corporate setting this may change however having used AppSheet before it was good to have a look through AppyPie and see the differences. In group perspective I have learned that moving forward I possibly need to provide more clear and concise direction to other team members and more clearly articulate my approach to avoid confusion. Communication was fantastic with Belle and I think this is the only area that benefited form only have 2 team members as we were able to create a stronger connection. A project of this size would require a larger group to ensure more progress is made on actual development. Had the group been larger it would have been great to set the team up as a proper development team and allocate formal roles such as Project Lead, UI/UX Designer and Back end Developer as this would have aided in the learning journey </p>3 
+
+
+
+<h3>REFERENCES</h3> 
+
+Capital Numbers (2019), ‘Why business need Mobile App Development in the current market’ Available from: https://www.capitalnumbers.com/blog/why-businesses-need-mobile-app-development/  [Accessed on 18 Feb,2021]  
+
+Global News Wire (February 18, 2021), Fitness App Market Revenue USD 298.30 Billion by 2026 with a 31.25% CAGR | Global Fitness Apps Market to Benefit from COVID-19 Pandemic, Global News Wire, viewed 19 February 2021, https://www.globenewswire.com/news-release/2021/02/08/2171201/0/en/Fitness-App-Market-Revenue-USD-298-30-Billion-by-2026-with-a-31-25-CAGR-Global-Fitness-Apps-Market-to-Benefit-from-COVID-19-Pandemic.html  
+
+Forrester (February 24, 2021), Why Citi’s $500M Mistake Is Really A Design Debt Interest Payment, Forbes, Viewed 24 February 2021,  https://www.forbes.com/sites/forrester/2021/02/24/why-citis-500m-mistake-is-really-a-design-debt-interest-payment/?sh=27cf6d459002  
+
+Goodfirm (2021), ‘Top App Development Software’, Available from: https://www.goodfirms.co/app-development-software/ [Accessed on 15 Feb,2021]   
+
+Haynes R (Date unknown), Choosing the Right Technology for Your Mobile App Strategy, Signal, viewed 19 February 2021, https://signalinc.com/choosing-the-right-technology-for-your-mobile-app-strategy/  
+
+Koetsier J (October 5, 2020), The Top 10 Health & Fitness Apps Of 2020 Have One Thing In Common (Mostly), Forbes, viewed 12 February 2021, https://www.forbes.com/sites/johnkoetsier/2020/10/05/the-top-10-health--fitness-apps-of-2020-have-one-thing-in-common-mostly/?sh=1b86c2726d60  
+
+Maricar Morga (2021), ‘the best programming languages for your mobile app development’ Available from: http://zesium.com/the-best-programming-languages-for-your-mobile-app-development/ [Accessed on 19 Feb,2021   
+
+Michaels Ross (2018), ‘7 Hidden Risk of Native App Development’ Available from: https://www.mrc-productivity.com/blog/2013/11/7-hiddens-risks-of-native-mobile-app-development/ [Accessed on 24 Feb, 2021] 
+
+Statista, October 2020, Number of mHealth apps available at Google Play from 1st quarter 2015 to 3rd quarter 2020, Statista, viewed 11 February 2021,  https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/#:~:text=This%20statistic%20displays%20the%20number,increase%20over%20the%20previous%20quarter.  
+
+Varshneya R (June 13, 2019), A Step-by-Step Guide To Building Your First Mobile App, Entrepreneur Asia Pacific, viewed 19 February 2021, https://www.entrepreneur.com/article/231145  
+
+<h3>APPENDIX</h3> 
+
+<p>Appendix 1 – Landing Page</p> <p><a href="https://sites.google.com/view/onegoal/home">Visit Our Landing Page!</a></p> 
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+ 
+
 
 
 </body>
