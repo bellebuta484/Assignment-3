@@ -22,45 +22,44 @@
 
 <p>STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709)</p>
 
-<p>GITHUB REPOSITORY:[Our Repo](https://github.com/bellebuta484/Assignment-3.git)</p>
+<p><ahref="https://github.com/bellebuta484/Assignment-3.git">Visit Our Git Repo!</a></p>
 
 <p>TEAM NAME: 			One Goal</p>
 
 <p>DATE OF SUBMISSION :	26 February, 2021</p> 
 
-<h7>Kristie Magazinovic</h7> 
+<h6>Kristie Magazinovic</h6> 
 
-[Personal page](https://kristiem88.github.io/Assignment1/)                                                                               
-I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a farm and enjoy horse riding, camping, travelling, and spending time with my dogs. I also sing and play guitar in my spare time (cheaper than therapy) 
+<p><ahref="https://kristiem88.github.io/Assignment1/">Personal Page!</a></p>                                                                              
+<p>I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a farm and enjoy horse riding, camping, travelling, and spending time with my dogs. I also sing and play guitar in my spare time (cheaper than therapy)</p> 
 
-**Phimonrat Panaphong** 
+<h6>Phimonrat Panaphong</h6> 
 
-[Personal Page](https://bellebuta484.github.io/My_PROFILE_20/) 
-I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business Management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who brings laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife 
-
-
-# Group Processes 
-
-The Group worked well as a team in assignment 2 with individual tasks being allocated to team members. The following processes worked well for assignment 2 and will remain in assignment 3 
-
-Use of a detailed action list – This list clearly breaks down the components of the assignment, marks awarded to these sections and allocates the task to an individual team member. Team members are allocated to tasks collaboratively through self-nomination and during team meetings.  
-
-Due dates were added to tasks to ensure the team remained on target to meet submission deadline. 
-
-Working of the same document. A report template was created and uploaded to Microsoft Teams. All formatting, font etc was the same to ensure submission clean-up was quick and easy. 
-
-Regular meetings were conducted on a Tuesday and Thursday in the evening with all members attending majority of the time.  
-
-In order to facilitate a better result in Assignment 3 the following process improvements will be made 
-
-At the start of each meeting each team member will explain the tasks they have performed at a high level so the whole team understands, and any questions will be raised at this time.  
-
-Team members will provide feedback on other members work to ensure any missing components are covered. 
-
-Any uncertainty in an element of the assignment will be immediately deferred to the course tutor by sending an email.
+<p><ahref="https://bellebuta484.github.io/My_PROFILE_20/">Personal Page!</a></p>
+<p>I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business Management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who brings laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife</p> 
 
 
-# Career Plans 
+<h2>Group Processes</h2> 
+
+<p>The Group worked well as a team in assignment 2 with individual tasks being allocated to team members. The following processes worked well for assignment 2 and will remain in assignment 3</p>
+
+<p>Use of a detailed action list – This list clearly breaks down the components of the assignment, marks awarded to these sections and allocates the task to an individual team member. Team members are allocated to tasks collaboratively through self-nomination and during team meetings.</p> 
+
+<p>Due dates were added to tasks to ensure the team remained on target to meet submission deadline.</p> 
+
+<p>Working of the same document. A report template was created and uploaded to Microsoft Teams. All formatting, font etc was the same to ensure submission clean-up was quick and easy.</p> 
+
+<p>Regular meetings were conducted on a Tuesday and Thursday in the evening with all members attending majority of the time.</p>  
+
+<p>In order to facilitate a better result in Assignment 3 the following process improvements will be made </p>
+
+<p>At the start of each meeting each team member will explain the tasks they have performed at a high level so the whole team understands, and any questions will be raised at this time.</p>  
+
+<p>Team members will provide feedback on other members work to ensure any missing components are covered.</p> 
+
+<p>Any uncertainty in an element of the assignment will be immediately deferred to the course tutor by sending an email.</p>
+
+<h2>Career Plans </h2>
 
 | Team Member | Ideal Job | Demand for Role | Job Description | Similarities | Differences | General Skills Required | IT Skills Required | Final Opinion on Role |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
