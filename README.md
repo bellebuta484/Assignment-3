@@ -157,11 +157,11 @@
 
 <p>The primary aim of this project is to produce a health and fitness app that meets the specific requirements of the target audience. These requirements are to manage weight loss and weight maintenance, set specific food intake goals and track calories and macronutrient intakes and set exercise goals and track physical performance. In order to achieve our overarching, aim we developed a list of tangible goals to support the development of our mobile app over the 15 week period as follows: </p>
 
-<p><b>Define Scope</b></p> : While the aim is to build an all-encompassing health and fitness app the 15 week timeframe will not allow for all desired items to be made available in the 1.0 release. Therefore, a thorough need analysis will be carried out to prioritise all desired features. All potential app features will be prioritised with the most important being included in the initial release and further features being listed for later 2.0 and 3.0 releases. This will ensure the size of the project is more manageable, focus is maintained, and a viable product is available for release by the end of the 16 weeks.  </p>
+<p><b>Define Scope</b></p>  : While the aim is to build an all-encompassing health and fitness app the 15 week timeframe will not allow for all desired items to be made available in the 1.0 release. Therefore, a thorough need analysis will be carried out to prioritise all desired features. All potential app features will be prioritised with the most important being included in the initial release and further features being listed for later 2.0 and 3.0 releases. This will ensure the size of the project is more manageable, focus is maintained, and a viable product is available for release by the end of the 16 weeks.  </p>
 
-<p><b>Create a user-interface design</b></p>: Although design may be considered a final step in the process, the design of a mobile app is imperative to the customer experience. Complicated features and nuanced technical details will determine the databases and programming languages however the customer experience is key to the success and usability of an app. This can only be reached with a design that facilitates ease of use and creates positive engagement with the customer. Developing a simple easy to use interface design first will assist in creating customer loyalty and retention throughout later releases of the app. Presentation, usability and simplification will ensure the apps success. </p> 
+<p><b>Create a user-interface design</b></p> : Although design may be considered a final step in the process, the design of a mobile app is imperative to the customer experience. Complicated features and nuanced technical details will determine the databases and programming languages however the customer experience is key to the success and usability of an app. This can only be reached with a design that facilitates ease of use and creates positive engagement with the customer. Developing a simple easy to use interface design first will assist in creating customer loyalty and retention throughout later releases of the app. Presentation, usability and simplification will ensure the apps success. </p> 
 
-<p><b>Choose the right software</b>: The technology chosen for our mobile app development will determine how the app is developed and how users interact with it. Selecting the wrong technology can be a costly mistake, resulting in inaccessibility or poor performance (Haynes, 2021). The team will look at the pros and cons of native vs web apps, programming languages, app development sites and database software to ensure all avenues are explored to find the most suitable application available. </p>
+<p><b>Choose the right software</b></p> : The technology chosen for our mobile app development will determine how the app is developed and how users interact with it. Selecting the wrong technology can be a costly mistake, resulting in inaccessibility or poor performance (Haynes, 2021). The team will look at the pros and cons of native vs web apps, programming languages, app development sites and database software to ensure all avenues are explored to find the most suitable application available. </p>
 
 <h3> Plans and Progress. </h3>
 
@@ -179,18 +179,77 @@
 
 <p>A critical step in the development process was to determine what key features and requirements were going to be achievable in the 15 week development timeframe. Given the limited timeframe it was unreasonable to assume we would be able to include all desired features in the initial release. To determine what features would be pertinent to usability and design in an initial release we listed all desired features and allotted a priority level of high, medium, and low. High level features were to be included in the initial release of the app. Medium Level features would be left for a 2.0 release and low-level features would be left for a 3.0 release or later. This would also ensure that the team remained focused on the key features for development and aided in time management.  Focusing on reasonable deliverables allowed the team to significantly reduce the scope of the initial release. The following table shows the pros, cons and final priority level allotted to each feature. </p>
 
-| Feature | Detail | Importance to usability of App | Priority Level |
-| :----: | :----: | :----: | :-----: |
-| Calorie Tracker | Track Calorie intake daily. Initial Goal was to use an official food composition database and link the data into the app via API. This will ensure any updates to the food database are respectively updated in the mobile app regularly (i.e. as new products become available in Australian Supermarkets) | As the weight management aspect of the app was discussed as a key feature of our development and dietary intake is an integral part of most health and fitness apps this is an absolute must. | High |
-| Activity Tracker | Tracks All non-traditional physical activity such as housework and gardening. | This would be an important feature to those who do not engage in much formal traditional exercise as it can certainly contribute to calories burned however as the app is primarily designed to be targeted to those who already use a health and fitness app the assumption is that most users engage in regular exercise. It is therefore not pertinent to initial release  | Medium |
-| Exercise Tracker | Tracks all exercises such as rowing, running, weightlifting, stair climber, elliptical machine etc | As we assumed most users would be engaging in regular exercise this would be one of the key features to introduce in an initial release  | High | 
-| Sleep function | Tracks sleep | Studies show that adequate sleep is imperative to effective weight loss so tracking sleep and providing users with information on sleep patterns is vital to support the weight management function. This however will not be a vital feature for initial release as it is simply a recording mechanism | Low |
-| Water Intake | Tracks water intake. Set water intake goals per day (Default set to 2 litres) | This is a simple recording tool that will recommend daily water intake and track. This will be a relatively simple feature to develop however will not be vital in an initial release | Medium |
-| Weight Management Function | Upon entering current weight and goal weight and level of exercise etc, the app will determine the required calorie intake needed. This will be based on a Basic Metabolic Rate formula and estimated daily calorie burn to generate a calorie deficit.  | This is the most important feature of the app as it is the one feature that sets the mobile app apart from most of the other popular apps available. It will be developed with simplicity as a key design feature to aid in the user experience.  | High |
-| Step Trackers | Tracking all steps | This will aid in determining level of physical activity output and calorie burn. This feature will support the weight management and exercise features and is therefore imperative to initial release. | High |
-| Workout Plan | Basic workout plans can be accessed by selecting interest areas (such as strength training, flexibility etc). These will then upload template plans based on chosen interests. | This will be a key feature moving forward however development of this feature will require considerable effort and will not be available in 1.0 release  | Medium |
-| Exercise Videos | Research indicates that the most successful health apps include workout videos. The aim of this feature would be to link into the workout plan and be used as a tool. These would be provided most likely by external partners which would be linked in a seamless manner | As this is closely tied into the workout plan function it is not to be included in the initial release.  | Medium |
-| Personal Profile Page | Basic information holding name, age, weight, height, level of activity, average steps, average calorie intake etc, photo (if desired),| This will be imperative to capturing data for marketing purposes and will provide users with a high level summary of their current goals and progress. | High |
+
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>Detail</th>
+    <th>Importance to usability of App</th>
+    <th>Priority Level</th>
+  </tr>
+  <tr>
+    <td>Calorie Tracker</td>
+    <td>Track Calorie intake daily. Initial Goal was to use an official food composition database and link the data into the app via API. This will ensure any updates to the food database are respectively updated in the mobile app regularly (i.e. as new products become available in Australian Supermarkets)</td>
+    <td>As the weight management aspect of the app was discussed as a key feature of our development and dietary intake is an integral part of most health and fitness apps this is an absolute must.</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Activity Tracker</td>
+    <td>Tracks All non-traditional physical activity such as housework and gardening</td>
+    <td>This would be an important feature to those who do not engage in much formal traditional exercise as it can certainly contribute to calories burned however as the app is primarily designed to be targeted to those who already use a health and fitness app the assumption is that most users engage in regular exercise. It is therefore not pertinent to initial release</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Exercise Tracker</td>
+    <td>Tracks all exercises such as rowing, running, weightlifting, stair climber, elliptical machine etc</td>
+    <td>As we assumed most users would be engaging in regular exercise this would be one of the key features to introduce in an initial release</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Sleep function</td>
+    <td>Tracks sleep</td>
+    <td>Studies show that adequate sleep is imperative to effective weight loss so tracking sleep and providing users with information on sleep patterns is vital to support the weight management function. This however will not be a vital feature for initial release as it is simply a recording mechanism</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Water Intake</td>
+    <td>Tracks water intake. Set water intake goals per day (Default set to 2 litres)</td>
+    <td>This is a simple recording tool that will recommend daily water intake and track. This will be a relatively simple feature to develop however will not be vital in an initial release</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Weight Management Function</td>
+    <td>Upon entering current weight and goal weight and level of exercise etc, the app will determine the required calorie intake needed. This will be based on a Basic Metabolic Rate formula and estimated daily calorie burn to generate a calorie deficit.</td>
+    <td>This is the most important feature of the app as it is the one feature that sets the mobile app apart from most of the other popular apps available. It will be developed with simplicity as a key design feature to aid in the user experience.</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Step Trackers</td>
+    <td>Tracking all steps</td>
+    <td>This will aid in determining level of physical activity output and calorie burn. This feature will support the weight management and exercise features and is therefore imperative to initial release.</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Workout Plan</td>
+    <td>Basic workout plans can be accessed by selecting interest areas (such as strength training, flexibility etc). These will then upload template plans based on chosen interests.</td>
+    <td>This will be a key feature moving forward however development of this feature will require considerable effort and will not be available in 1.0 release</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Exercise Videos</td>
+    <td>Research indicates that the most successful health apps include workout videos. The aim of this feature would be to link into the workout plan and be used as a tool. These would be provided most likely by external partners which would be linked in a seamless manner</td>
+    <td>As this is closely tied into the workout plan function it is not to be included in the initial release.</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Personal Profile Page</td>
+    <td>Basic information holding name, age, weight, height, level of activity, average steps, average calorie intake etc, photo (if desired)</td>
+    <td>This will be imperative to capturing data for marketing purposes and will provide users with a high level summary of their current goals and progress</td>
+    <td>High</td>
+  </tr>
+</table>
+
+
 
 <h3> 3. Design </h3>
 
@@ -211,7 +270,7 @@
 
 
 
-
+<h4>Mobile Development Software</h4>
 <table>
   <tr>
     <th>Tool/Technology </th>
@@ -220,58 +279,107 @@
     <th>Cons</th>
   </tr>
   <tr>
-    <td>Mobile Development Software</th>
-  </tr> 
-  <tr>
     <td>Zoho Creater</td>
     <td>https://www.zoho.com/creator/ Cloud software that creating app without coding experience or IT knowledge </td>
-    <td>* Low-code skills needed to create complex process * Easy to learn * Best for simple form design software * Updates are on time</td>
-    <td>* A bit tricky for integrations with 3rd party software * Layout customizations very limited * A nit expensive when you need to give access to many users * Need to have better training tools made for non-developer user </td>
+    <td>1.Low-code skills needed to create complex process
+        2.Easy to learn
+        3.Best for simple form design software
+        4.Updates are on time</td>
+    <td>1.A bit tricky for integrations with 3rd party software
+        2.Layout customizations very limited
+        3.A nit expensive when you need to give access to many users
+        4.Need to have better training tools made for non-developer user </td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>AppyPie</td>
+    <td>https://www.appypie.com/app-builder/appmaker Fast growing cloud based mobile app builder platform</td>
+    <td>1.User-friendly and easy to use 
+        2.Offer 56 types of features or pages 
+        3.Easily create an in-app store or link to more than 10 platforms (Amazon, Etsy etc.)</td>
+    <td>1.The templates look a bt dated
+        2.Poor UX
+        3.Cost is a bit over some competitors
+        4.Setup and publishing is tricky</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>AppSheet</td>
+    <td>https://www.appsheet.com/ AppSheet is an smart web, no-code app platform for every user</td>
+    <td>1.No Coding Required
+        2.Free downloads
+        3.Easy to build the application
+        4.Good support available in community or videos</td>
+    <td>1.Development of document reports
+        2.Direct connection to SharePoint Lists
+        3.Lack of theme and color ranges for the UI and UX</td>
   </tr>
 </table>
 
+<h4>Database Storage Options</h4>
+<table>
+  <tr>
+    <th>Tool/Technology</th>
+    <th>Use</th>
+    <th>Pros</th>
+    <th>Cons</th>
+  </tr>
+  <tr>
+    <td>Cloud Storage</td>
+    <td>Cloud storage is the process of storing digital data in an online space that spans multiple servers and locations, and it is usually maintained by a hosting company</td>
+    <td>1. Data Retrieval: Retrieve data from virtually anywhere and support work-from home initiatives, BYOD solutions, and business agility. 
+        2. Disaster Recovery: Cloud providers can work with cloud solution platforms – like Zerto Virtual Replication 6.0 – to provide a disaster recovery and backup strategy. 
+        3. Subscription Pay: Pay-as-you-use subscription models take the CapEx model out of storage planning. I
+        4. ncreased Capabilities: Virtualization, web applications, collaboration tools, disaster recovery solutions, centralization, data protection, and security protocols are all available to the cloud users</td>
+    <td>1. Security Concerns: IT teams need to be able to use cloud provider tools to ensure complete security of sensitive data. 
+        2. Host Trust: When teaming with a cloud provider you rely solely on them for availability and security.</td>
+  </tr>
+  <tr>
+    <td>Local Storage</td>
+    <td>Local storage is the process of storing digital data on physical storage devices, such as hard disc drives (HDDs), solid state drives (SSDs), or external storage devices, such as thumb drives or discs.</td>
+    <td>1. Speed: Accessing data stored on local storage is much quicker than uploading and downloading it to and from the cloud. 
+        2. Security Controls: You have complete control over how the data is stored, who has access, and information security protocols.</td>
+    <td>1. Accessibility: That complete control comes at the cost of accessibility, which impacts usability and collaboration 
+        2. Off-site backups: are an essential component of a strong disaster recovery plan. Local backups would be destroyed in the event of an on-site disaster. 
+        3. Cost: The hardware and infrastructure costs are high and adding on more space and upgrading only adds to the price tag</td>
+  </tr>
+<table>
+  
+<h4>Hardware requirements</h4> 
+<table>
+  <tr>
+    <th>Tool/Technology</th>
+    <th>Use</th>
+    <th>Pros</th>
+    <th>Cons</th>
+  <tr>
+    <td>Recommended 2 GHz Dual Core or more</td>
+    <td>Dual core 2 GHz is referring as “the brain” of a computer. The speed is part of important to keep the computer functional.</td>
+    <td>1. Applications that support multi-threading will greatly benefit from having a higher number of cores at their disposal 
+        2. Increasing the number of cores in your CPU is a cost-effective way of increasing performance 
+        3. Multi-threading support for applications will continue to improve over time 
+        4. You will be able to run more apps at once without seeing performance drops 
+        5. Great for running multiple virtual machines</td>
+    <td>1. Lower single-threaded performance than a higher clock speed processor</td>
+  </tr>
+  <tr>
+    <td>Ethernet connection</td>
+    <td>Ethernet connection is used to provide an internet connection, connect devices to a local network. The most common use for an Ethernet cable is connecting a WiFi router or modem to the internet entry port or telephone line</td>
+    <td>1. Speed 
+        2. Security 
+        3. Reliable 
+        4. Efficiency</td>
+    <td>1. Mobility
+        2. Expandability
+        3. Connection 
+        4. Installation</td>
+  </tr>
+<table>
 
 
-|  | |  | |
-| AppyPie | https://www.appypie.com/app-builder/appmaker Fast growing cloud based mobile app builder platform | * User-friendly and easy to use * Offer 56 types of features or pages * Easily create an in-app store or link to more than 10 platforms (Amazon, Etsy etc.) | * The templates look a bt dated * Poor UX * Cost is a bit over some competitors * Setup and publishing is tricky |
-| AppSheet | https://www.appsheet.com/ AppSheet is an smart web, no-code app platform for every user | * No Coding Required * Free downloads, not * Easy to build the application * Good support available in community or videos | * Development of document reports  * Direct connection to SharePoint Lists * Lack of theme and color ranges for the UI and UX |
-| Database Storage Options |
-| Cloud Storage | Cloud storage is the process of storing digital data in an online space that spans multiple servers and locations, and it is usually maintained by a hosting company | **Data Retrieval**: Retrieve data from virtually anywhere and support work-from home initiatives, BYOD solutions, and business agility. **Disaster Recovery**: Cloud providers can work with cloud solution platforms – like Zerto Virtual Replication 6.0 – to provide a disaster recovery and backup strategy. **Subscription Pay**: Pay-as-you-use subscription models take the CapEx model out of storage planning. **Increased Capabilities**: Virtualization, web applications, collaboration tools, disaster recovery solutions, centralization, data protection, and security protocols are all available to the cloud users | **Security Concerns**: IT teams need to be able to use cloud provider tools to ensure complete security of sensitive data. **Host Trust**: When teaming with a cloud provider you rely solely on them for availability and security.|
-| Local Storage | Local storage is the process of storing digital data on physical storage devices, such as hard disc drives (HDDs), solid state drives (SSDs), or external storage devices, such as thumb drives or discs. | **Speed**: Accessing data stored on local storage is much quicker than uploading and downloading it to and from the cloud. **Security Controls**: You have complete control over how the data is stored, who has access, and information security protocols.| **Accessibility**: That complete control comes at the cost of accessibility, which impacts usability and collaboration **Off-site backups**: are an essential component of a strong disaster recovery plan. Local backups would be destroyed in the event of an on-site disaster. **Cost**: The hardware and infrastructure costs are high and adding on more space and upgrading only adds to the price tag.|  
-| Hardware requirements |
-| Recommended 2 GHz Dual Core or more | Dual core 2 GHz is referring as “the brain” of a computer. The speed is part of important to keep the computer functional. |  *Applications that support multi-threading will greatly benefit from having a higher number of cores at their disposal *Increasing the number of cores in your CPU is a cost-effective way of increasing performance *Multi-threading support for applications will continue to improve over time *You will be able to run more apps at once without seeing performance drops *Great for running multiple virtual machines | *Lower single-threaded performance than a higher clock speed processor |
-| Ethernet connection | Ethernet connection is used to provide an internet connection, connect devices to a local network. The most common use for an Ethernet cable is connecting a WiFi router or modem to the internet entry port or telephone line | *Speed *Security *Reliable *Efficiency | *Mobility *Expandability *Connection *Installation |
+<p>We decided upon using Appy Pie for Mobile App development. Appy Pie is a software that allows creating applications without coding. The method is relatively simple. It involves choosing a template and personalising it. The app can be for almost any business need, such as a small business, restaurant, real estate, or even a radio app. Once the app is complete, there are ways to distribute the app to the Google Play and Apple App stores. We choose this building site because the app is free, can be done in a minute, no coding skills require and updates in real-time.  AppyPie is easy to create a simple app in minutes. Basic features are decent and it's a good choice for small businesses like us. It's one of the rear app developer that offers to creating an app for free. Even thought the web app comes with ads. </p>
 
-We decided upon using Appy Pie for Mobile App development. Appy Pie is a software that allows creating applications without coding. The method is relatively simple. It involves choosing a template and personalising it. The app can be for almost any business need, such as a small business, restaurant, real estate, or even a radio app. Once the app is complete, there are ways to distribute the app to the Google Play and Apple App stores. We choose this building site because the app is free, can be done in a minute, no coding skills require and updates in real-time.  AppyPie is easy to create a simple app in minutes. Basic features are decent and it's a good choice for small businesses like us. It's one of the rear app developer that offers to creating an app for free. Even thought the web app comes with ads. 
+<p>We need a licence to create an app since the software is required to create the app, and the software would need a licence to use the software to be accepted. Licenses differ greatly, however. We may need to set up an account, pay one-time or annual fees, be limited to what can be created or how many copies can be selling, etc. </p>  
 
-We need a licence to create an app since the software is required to create the app, and the software would need a licence to use the software to be accepted. Licenses differ greatly, however. We may need to set up an account, pay one-time or annual fees, be limited to what can be created or how many copies can be selling, etc.  
-
-For any company with publicly accessible applications, mobile app security assessments are important. It protects the customers and the organisation from potential disasters, trained cybersecurity experts may determine the strength of an application against known and potential threats. The proper tests will give the company a faith in the security of APIs and mobile apps. The security assessment reduces risks, save time, and enforce actionable protection measures to increase safety and comply with compulsory enforcement. 
+<p>For any company with publicly accessible applications, mobile app security assessments are important. It protects the customers and the organisation from potential disasters, trained cybersecurity experts may determine the strength of an application against known and potential threats. The proper tests will give the company a faith in the security of APIs and mobile apps. The security assessment reduces risks, save time, and enforce actionable protection measures to increase safety and comply with compulsory enforcement. </p> 
 
 
 
