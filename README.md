@@ -515,9 +515,29 @@
   </tr>
 </table>
 
+<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<ul>
+  <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field.(Postgraduate qualifications Highly regarded)</li> 
+  <li>5 + years experience in software development, specifically in front end technologies and mobile app development</li>   
+  <li>Experience with both iOS and Android frameworks such as Core Data, Core Graphics and Core Text</li>  
+  <li>Experience managing a small team of developers.</li>  
+  <li>Experience with external providers (third party libraries and API providers).</li>  
+  <li>Experience with complete, full stack exposure in customer-focused mobile applications</li>  
+  <li>Proven track record of building well designed, efficient and successful mobile applications</li>  
+  <li>Knowledge of Agile and/or Scrum project methodologies highly regarded.</li> 
+</ul>
 
-
-
+<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<ul>
+  <li>Superior knowledge and depth of understanding working with mobile architecture and design patterns. (Knowing technology limitations and where improvements can be made)</li> 
+  <li>Up to date knowledge of current API integration and industry standard authentication and security standards.</li>   
+  <li>Ability to architect, draw, document and present solutions to stakeholders.</li>  
+  <li>Keen attention to detail and a drive to deliver popular applications to our end users.</li>  
+  <li>Leadership and people management skills. </li>  
+  <li>Strong written and verbal communication skills with the ability to communicate effectively at all levels.</li>  
+  <li>Effective team player with the ability to work with a diverse team.</li>  
+  <li>Able to adapt and thrive in a fast paced and constantly changing environment.</li>
+</ul>
 
 
  
