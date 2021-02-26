@@ -11,11 +11,17 @@
 
 
 COSC2196 Introduction to Information Technology 
+
 ASSIGNMENT 3: Our Project 
+
 GROUP:				Group 1 (One Goal)
-STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709) 
+
+STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709)
+
 GITHUB REPOSITORY:		[Our Repo](https://github.com/bellebuta484/Assignment-3.git)
-TEAM NAME: 			One Goal 
+
+TEAM NAME: 			One Goal
+
 DATE OF SUBMISSION :		 
 
 # Table of Contents 
@@ -229,6 +235,18 @@ To aid in choosing the right technology we invested time into looking at all ava
 
 
 We followed the same colour scheme on from the Landing Page, using the same images to ensure continuity of design and start to create familiarity and brand recognition. These were developed using JUST IN MIND software that is designed to aid in UI prototype design. Examples as Follows
+
+<div class="d-table col-12">
+  <div class="col-4 d-table-cell border p-2">
+    Bacon ipsum dolor amet leberkas pork pig kielbasa shankle ribeye meatball, salami alcatra venison.
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Pork chop cupim cow turkey frankfurter, landjaeger fatback hamburger meatball salami spare ribs. Rump tenderloin salami, hamburger frankfurter landjaeger andouille.
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Brisket tongue frankfurter cupim strip steak rump picanha pancetta pork pig kevin pastrami biltong. Shankle venison meatball swine sausage ground round. Tail pork loin ribeye kielbasa short ribs pork chop.
+  </div>
+</div>
 
 | Tool/Technology | Use | Pros | Cons | 
 | Mobile Development Software |
