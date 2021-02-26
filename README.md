@@ -30,12 +30,12 @@
 
 <h6>Kristie Magazinovic</h6> 
 
-<p><ahref="https://kristiem88.github.io/Assignment1/">Personal Page!</a></p>                                                                              
+<p><a href="https://kristiem88.github.io/Assignment1/">Personal Page!</a></p>                                                                              
 <p>I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a farm and enjoy horse riding, camping, travelling, and spending time with my dogs. I also sing and play guitar in my spare time (cheaper than therapy)</p> 
 
 <h6>Phimonrat Panaphong</h6> 
 
-<p><ahref="https://bellebuta484.github.io/My_PROFILE_20/">Personal Page!</a></p>
+<p><a href="https://bellebuta484.github.io/My_PROFILE_20/">Personal Page!</a></p>
 <p>I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business Management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who brings laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife</p> 
 
 
