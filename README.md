@@ -10,6 +10,7 @@
   </div>
 </div>
 
+
 <span style="color:blue">
 COSC2196 Introduction to Information Technology 
 
@@ -154,38 +155,35 @@ Any uncertainty in an element of the assignment will be immediately deferred to 
 </div>
 <div class="d-table col-12">
   <div class="col-4 d-table-cell border p-2">
-    Team Member
+    Belle Phimonrat Panaphong
   </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    Idea Job
+    System Analyst 
   </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    Deman for Role
+    According to the Bureau of Labour Statistics data, IT professionals are in high demand, and the career outlook for systems analysts continues and expected to grow by 9% through 2028. System Analysts are often required to work overtime and out of regular hours to regulate the upgrades. 
   </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    Job Descriotion
+    A System Analyst is responsible for maintaining and improving computer systems for an organization.  System Analysts require to troubleshoot and maintain data warehouse and data storage systems.  Regularly researching, assess and evaluate technology in the infrastructure. Understanding user needs and how to improve systems based on demand. Create cost analysis reports that highlight the cost of efficiency. Communicate with stakeholders and train users.
   </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    Similarities
+    System Analysts require similarity skills as the other jobs listed below. They need to have a good communication skill in verbal and writing, thinking ability, problem-solving and good knowledge of programming language.
   </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    Differences
+    All the job roles have a different responsibility in their position. System Analyst is focusing on maintaining and improving computer systems. Work to optimize programs for users. The role is to advise employers and clients on which software they may need for their company, implement the software, and communicate with users to ensure the programs function correctly.
   </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    General Skills Required
+    * Critical thinking ability * Strong problem-solving capacity * High-level written and verbal communication skills * Project management skills * Knowledge of data modeling and data visualization tools 
    </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    IT Skills Required
+    * Knowledge of how to operate business software applications such as SQL, Oracle and SAP. * Knowledge of hardware and software * Knowledge of programming language such as Java, C++ and Visual basic
   </div><!--
   --><div class="col-4 d-table-cell border p-2">
-    Final Opinion On Role
+    I see the larger picture in resolving problems as a mother; we always think ahead. This role will reward me in so many ways such as solving complex problem, interacting with many different groups and functional areas allowed me to continue learning and understanding how different functions operate, and challenged with understanding discipline. It has also given me opportunities to grow in my career as a leader.
   </div>
 </div>
 
-| Team Member | Idea Job | Demand for Role | Job Description | Similarities | Differences | General Skills Required | IT Skills Required | Final Opinion on Role |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Belle Phimonrat Panaphong | System Analyst | According to the Bureau of Labour Statistics data, IT professionals are in high demand, and the career outlook for systems analysts continues and expected to grow by 9% through 2028. System Analysts are often required to work overtime and out of regular hours to regulate the upgrades. | A System Analyst is responsible for maintaining and improving computer systems for an organization.  System Analysts require to troubleshoot and maintain data warehouse and data storage systems.  Regularly researching, assess and evaluate technology in the infrastructure. Understanding user needs and how to improve systems based on demand. Create cost analysis reports that highlight the cost of efficiency. Communicate with stakeholders and train users. | System Analysts require similarity skills as the other jobs listed below. They need to have a good communication skill in verbal and writing, thinking ability, problem-solving and good knowledge of programming language. | All the job roles have a different responsibility in their position. System Analyst is focusing on maintaining and improving computer systems. Work to optimize programs for users. The role is to advise employers and clients on which software they may need for their company, implement the software, and communicate with users to ensure the programs function correctly. | * Critical thinking ability * Strong problem-solving capacity * High-level written and verbal communication skills * Project management skills * Knowledge of data modeling and data visualization tools | * Knowledge of how to operate business software applications such as SQL, Oracle and SAP. * Knowledge of hardware and software * Knowledge of programming language such as Java, C++ and Visual basic |I see the larger picture in resolving problems as a mother; we always think ahead. This role will reward me in so many ways such as solving complex problem, interacting with many different groups and functional areas allowed me to continue learning and understanding how different functions operate, and challenged with understanding discipline. It has also given me opportunities to grow in my career as a leader. | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
 | Kristie Magazinovic | Head of Supply Chain & Logistics | Supply Chain distribution and procurement managers require a very high skill set level with a limited number of roles available. Future growth in this field is strong and demand for skilled experiences supply chain and logistics professionals remains high.| An Executive level role for a large FMCG company responsible for managing all supply chain functions including procurement, contract management, manufacturing, import/exports & last mile delivery functions. Highly strategic role with a focus on business improvement and creating value in a competitive landscape | There aren’t many similarities in the specific role functions however all roles will rely on IT technologies (software and hardware) to complete daily functions. In terms of skill sets there will be similarities in requirements for communication skills, strategy development skills, knowledge of software systems and an understanding of how Information Technologies impact businesses | The Role is is not an IT specific role nor is it necessarily in the IT industry.  The role is heavily focused on commercial activities and while IT based tasks such as systems development will be an integral part of the role, this is a commercial executive role & follows a more conceptual and financial approach than systematic execution | * Leadership Qualities * High level of Commercial Accumen * People Management Skills * Communication Skills * Strategy Development * Negotiation Skills 
 * Budget preparation and Financial Management | * Knowledge of reporting software such as SQL, and tableau * Knowledge of ERP systems such as SAP and Oracle * Working knowledge * Broad understanding of commercial IT tools such as software, hardware and cloud storage | This is an excellent role for individuals with strong leadership attributes, strong negotiation skills and a high level of business acumen. The future demand for similar positions is strong and many of the IT skills, general skills and even qualifications are highly transferable to other senior and executive business management roles|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -324,4 +322,4 @@ We decided upon using Appy Pie for Mobile App development. Appy Pie is a softwar
 
 We need a licence to create an app since the software is required to create the app, and the software would need a licence to use the software to be accepted. Licenses differ greatly, however. We may need to set up an account, pay one-time or annual fees, be limited to what can be created or how many copies can be selling, etc.  
 
-For any company with publicly accessible applications, mobile app security assessments are important. It protects the customers and the organisation from potential disasters, trained cybersecurity experts may determine the strength of an application against known and potential threats. The proper tests will give the company a faith in the security of APIs and mobile apps. The security assessment reduces risks, save time, and enforce actionable protection measures to increase safety and comply with compulsory enforcement. </span>.
+For any company with publicly accessible applications, mobile app security assessments are important. It protects the customers and the organisation from potential disasters, trained cybersecurity experts may determine the strength of an application against known and potential threats. The proper tests will give the company a faith in the security of APIs and mobile apps. The security assessment reduces risks, save time, and enforce actionable protection measures to increase safety and comply with compulsory enforcement. 
