@@ -456,35 +456,25 @@
 <p>In order to ensure the team remains focused, organized and committed, the most crucial appointment would be an experienced project lead. The Project lead will be responsible for the planning coordination, requirements gathering, business analysis, specifications development, monitoring, reporting, and leadership of the project. They will prove a key link between the team and investors and should have experience with high level stakeholders. The ideal candidate would have a proven track record of leading small teams in the development of a native mobile application.</p> 
 
 <h4>Position Description</h4> 
-<table>
+
+<table style="width:100%">
   <tr>
-    <th>Tool/Technology</th>
-    <th>Use</th>
-    <th>Pros</th>
-    <th>Cons</th>
-  <tr>
-    <td>Recommended 2 GHz Dual Core or more</td>
-    <td>Dual core 2 GHz is referring as “the brain” of a computer. The speed is part of important to keep the computer functional.</td>
-    <td>1. Applications that support multi-threading will greatly benefit from having a higher number of cores at their disposal 
-        2. Increasing the number of cores in your CPU is a cost-effective way of increasing performance 
-        3. Multi-threading support for applications will continue to improve over time 
-        4. You will be able to run more apps at once without seeing performance drops 
-        5. Great for running multiple virtual machines</td>
-    <td>1. Lower single-threaded performance than a higher clock speed processor</td>
+    <th>Position Title:</th>
+    <th>Department:</th> 
+    <th>People Accountability</th>
+    <th>Report Title:</th>
+    <th>Work Location:</th> 
+    <th>Financial($) Accountability</th>
   </tr>
   <tr>
-    <td>Ethernet connection</td>
-    <td>Ethernet connection is used to provide an internet connection, connect devices to a local network. The most common use for an Ethernet cable is connecting a WiFi router or modem to the internet entry port or telephone line</td>
-    <td>1. Speed 
-        2. Security 
-        3. Reliable 
-        4. Efficiency</td>
-    <td>1. Mobility
-        2. Expandability
-        3. Connection 
-        4. Installation</td>
+    <td>Technical Project Lead</td>
+    <td>IT</td>
+    <td>Yes</td>
+    <td>Project Owner</td>
+    <td>IT Ofiice</td>
+    <td>Yes</td>
   </tr>
-<table>
+</table>
 
 
 </body>
