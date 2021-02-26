@@ -1,6 +1,6 @@
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-2 d-flex flex-items-center flex-items-center flex-md-items-start">
-    <img class="width-full avatar mb-2 mb-md-0" src="/onegoal.png" alt="github" />
+    <img class="width-full avatar mb-2 mb-md-0" src="/onegoal.png" alt="onegoal" />
   </div>
   <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
     <h1 class="text-normal lh-condensed">One Goal</h1>
@@ -14,8 +14,7 @@ COSC2196 Introduction to Information Technology
 ASSIGNMENT 3: Our Project 
 GROUP:				Group 1 (One Goal)
 STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709) 
-GITHUB REPOSITORY:		[Our Repo](https://github.com/bellebuta484/Assignment-3.git) 
-GITHUB PAGE URL :		[Our Web Page](https://bellebuta484.github.io/Assignment-3/.) 
+GITHUB REPOSITORY:		[Our Repo](https://github.com/bellebuta484/Assignment-3.git)
 TEAM NAME: 			One Goal 
 DATE OF SUBMISSION :		 
 
