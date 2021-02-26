@@ -124,75 +124,19 @@ Any uncertainty in an element of the assignment will be immediately deferred to 
 
 # Career Plans 
 
-<div class="d-table col-12">
-  <div class="col-4 d-table-cell border p-2">
-    Team Member
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    Idea Job
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    Deman for Role
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    Job Descriotion
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    Similarities
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    Differences
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    General Skills Required
-   </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    IT Skills Required
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    Final Opinion On Role
-  </div>
-</div>
-<div class="d-table col-12">
-  <div class="col-4 d-table-cell border p-2">
-    Belle Phimonrat Panaphong
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    System Analyst 
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    According to the Bureau of Labour Statistics data, IT professionals are in high demand, and the career outlook for systems analysts continues and expected to grow by 9% through 2028. System Analysts are often required to work overtime and out of regular hours to regulate the upgrades. 
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    A System Analyst is responsible for maintaining and improving computer systems for an organization.  System Analysts require to troubleshoot and maintain data warehouse and data storage systems.  Regularly researching, assess and evaluate technology in the infrastructure. Understanding user needs and how to improve systems based on demand. Create cost analysis reports that highlight the cost of efficiency. Communicate with stakeholders and train users.
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    System Analysts require similarity skills as the other jobs listed below. They need to have a good communication skill in verbal and writing, thinking ability, problem-solving and good knowledge of programming language.
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    All the job roles have a different responsibility in their position. System Analyst is focusing on maintaining and improving computer systems. Work to optimize programs for users. The role is to advise employers and clients on which software they may need for their company, implement the software, and communicate with users to ensure the programs function correctly.
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    * Critical thinking ability * Strong problem-solving capacity * High-level written and verbal communication skills * Project management skills * Knowledge of data modeling and data visualization tools 
-   </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    * Knowledge of how to operate business software applications such as SQL, Oracle and SAP. * Knowledge of hardware and software * Knowledge of programming language such as Java, C++ and Visual basic
-  </div><!--
-  --><div class="col-4 d-table-cell border p-2">
-    I see the larger picture in resolving problems as a mother; we always think ahead. This role will reward me in so many ways such as solving complex problem, interacting with many different groups and functional areas allowed me to continue learning and understanding how different functions operate, and challenged with understanding discipline. It has also given me opportunities to grow in my career as a leader.
-  </div>
-</div>
+| **Team Member | Ideal Job | Demand for Role | Job Description | Similarities | Differences | General Skills Required | IT Skills Required | Final Opinion on Role** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Belle P. Panaphong | System Analyst | According to the Bureau of Labour Statistics data, IT professionals are in high demand, and the career outlook for systems analysts continues and expected to grow by 9% through 2028. System Analysts are often required to work overtime and out of regular hours to regulate the upgrades. | A System Analyst is responsible for maintaining and improving computer systems for an organization.  System Analysts require to troubleshoot and maintain data warehouse and data storage systems.  Regularly researching, assess and evaluate technology in the infrastructure. Understanding user needs and how to improve systems based on demand. Create cost analysis reports that highlight the cost of efficiency. Communicate with stakeholders and train users. | System Analysts require similarity skills as the other jobs listed below. They need to have a good communication skill in verbal and writing, thinking ability, problem-solving and good knowledge of programming language.  | All the job roles have a different responsibility in their position. System Analyst is focusing on maintaining and improving computer systems. Work to optimize programs for users. The role is to advise employers and clients on which software they may need for their company, implement the software, and communicate with users to ensure the programs function correctly. | -Critical thinking ability -Strong problem-solving capacity - High-level written and verbal communication skills - Project management skills - Knowledge of data modeling and data visualization tools   | - Knowledge of how to operate business software applications such as SQL, Oracle and SAP. - Knowledge of hardware and software - Knowledge of programming language such as Java, C++ and Visual basic  | I see the larger picture in resolving problems as a mother; we always think ahead. This role will reward me in so many ways such as solving complex problem, interacting with many different groups and functional areas allowed me to continue learning and understanding how different functions operate, and challenged with understanding discipline. It has also given me opportunities to grow in my career as a leader. |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Kristie Magazinovic | Head of Supply Chain & Logistics | Supply Chain distribution and procurement managers require a very high skill set level with a limited number of roles available. Future growth in this field is strong and demand for skilled experiences supply chain and logistics professionals remains high.| An Executive level role for a large FMCG company responsible for managing all supply chain functions including procurement, contract management, manufacturing, import/exports & last mile delivery functions. Highly strategic role with a focus on business improvement and creating value in a competitive landscape | There aren’t many similarities in the specific role functions however all roles will rely on IT technologies (software and hardware) to complete daily functions. In terms of skill sets there will be similarities in requirements for communication skills, strategy development skills, knowledge of software systems and an understanding of how Information Technologies impact businesses | The Role is is not an IT specific role nor is it necessarily in the IT industry.  The role is heavily focused on commercial activities and while IT based tasks such as systems development will be an integral part of the role, this is a commercial executive role & follows a more conceptual and financial approach than systematic execution | - Leadership Qualities - High level of Commercial Accumen - People Management Skills - Communication Skills - Strategy Development - Negotiation Skills 
+- Budget preparation and Financial Management | - Knowledge of reporting software such as SQL, and tableau - Knowledge of ERP systems such as SAP and Oracle - Working knowledge - Broad understanding of commercial IT tools such as software, hardware and cloud storage | This is an excellent role for individuals with strong leadership attributes, strong negotiation skills and a high level of business acumen. The future demand for similar positions is strong and many of the IT skills, general skills and even qualifications are highly transferable to other senior and executive business management roles|
 
-
-| Kristie Magazinovic | Head of Supply Chain & Logistics | Supply Chain distribution and procurement managers require a very high skill set level with a limited number of roles available. Future growth in this field is strong and demand for skilled experiences supply chain and logistics professionals remains high.| An Executive level role for a large FMCG company responsible for managing all supply chain functions including procurement, contract management, manufacturing, import/exports & last mile delivery functions. Highly strategic role with a focus on business improvement and creating value in a competitive landscape | There aren’t many similarities in the specific role functions however all roles will rely on IT technologies (software and hardware) to complete daily functions. In terms of skill sets there will be similarities in requirements for communication skills, strategy development skills, knowledge of software systems and an understanding of how Information Technologies impact businesses | The Role is is not an IT specific role nor is it necessarily in the IT industry.  The role is heavily focused on commercial activities and while IT based tasks such as systems development will be an integral part of the role, this is a commercial executive role & follows a more conceptual and financial approach than systematic execution | * Leadership Qualities * High level of Commercial Accumen * People Management Skills * Communication Skills * Strategy Development * Negotiation Skills 
-* Budget preparation and Financial Management | * Knowledge of reporting software such as SQL, and tableau * Knowledge of ERP systems such as SAP and Oracle * Working knowledge * Broad understanding of commercial IT tools such as software, hardware and cloud storage | This is an excellent role for individuals with strong leadership attributes, strong negotiation skills and a high level of business acumen. The future demand for similar positions is strong and many of the IT skills, general skills and even qualifications are highly transferable to other senior and executive business management roles|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
   
 # Tools  
 
 In order to create better communication, the team relied heavily on Microsoft Teams. The team discussed the minimal use of GitHub during assignment 2 and endeavoured to utilise it more in assignment 3 in order to gain exposure to the site. All members of the team did feel that Microsoft Teams facilitated better communication, greater efficiency and better report writing. All team meetings were conducted and recorded in Microsoft Teams as this is not an available option in GitHub. All meeting agendas and meeting minutes were easily prepared and uploaded using templates with minimal additional entries. It was easy to refer back to the meeting recording should any items need to be reviewed. The team felt that the use of GitHub did not facilitate the level of collaboration that Microsoft teams enabled as all documents needed to be created in a word document for ease and transferring this to Github would have been duplication of work and is an extremely inefficient process.  
 
-The Team believed the most efficient, consistent and uniform way to manage the project was to heavily rely on Microsoft Teams as it enabled all members to use one platform for meetings, chat communication and document editing and allowed us to work of the same document at the same time. The use of word also allowed us to visualize the best format for the report which would then serve as the template for our HTML webpage. We used the Word document of our report to test how the website could look and then once we were happy with the format we coded to a HTML webpage in Github. The team noted that while Github was a useful tool for sharing code and working collaboratively on the coding elements of app development in order to ensure out virtual team worked as efficiently as possible we relied mostly on Microsoft Teams. 
+The Team believed the most efficient, consistent and uniform way to manage the project was to heavily rely on Microsoft Teams as it enabled all members to use one platform for meeting, chat communication and document editing and allowed us to work of the same document at the same time. The use of word also allowed us to visualize the best format for the report which would then serve as the template for our HTML webpage. We used the Word document of our report to test how the website could look and then once we were happy with the format we coded to a HTML webpage in Github. The team noted that while Github was a useful tool for sharing code and working collaboratively on the coding elements of app development in order to ensure out virtual team worked as efficiently as possible we relied mostly on Microsoft Teams. 
 
 # PROJECT OVERVIEW 
 
@@ -264,8 +208,8 @@ In order to capitalise on the mobile app the team decided on creating a landing 
 
 A critical step in the development process was to determine what key features and requirements were going to be achievable in the 15 week development timeframe. Given the limited timeframe it was unreasonable to assume we would be able to include all desired features in the initial release. To determine what features would be pertinent to usability and design in an initial release we listed all desired features and allotted a priority level of high, medium, and low. High level features were to be included in the initial release of the app. Medium Level features would be left for a 2.0 release and low-level features would be left for a 3.0 release or later. This would also ensure that the team remained focused on the key features for development and aided in time management.  Focusing on reasonable deliverables allowed the team to significantly reduce the scope of the initial release. The following table shows the pros, cons and final priority level allotted to each feature. 
 
-| Feature | Detail | Importance to usability of App | Priority Level |
-| ---- | ---- | ---- | ----- |
+| **Feature | Detail | Importance to usability of App | Priority Level** |
+| :----: | :----: | :----: | :-----: |
 | Calorie Tracker | Track Calorie intake daily. Initial Goal was to use an official food composition database and link the data into the app via API. This will ensure any updates to the food database are respectively updated in the mobile app regularly (i.e. as new products become available in Australian Supermarkets) | As the weight management aspect of the app was discussed as a key feature of our development and dietary intake is an integral part of most health and fitness apps this is an absolute must. | High |
 | Activity Tracker | Tracks All non-traditional physical activity such as housework and gardening. | This would be an important feature to those who do not engage in much formal traditional exercise as it can certainly contribute to calories burned however as the app is primarily designed to be targeted to those who already use a health and fitness app the assumption is that most users engage in regular exercise. It is therefore not pertinent to initial release  | Medium |
 | Exercise Tracker | Tracks all exercises such as rowing, running, weightlifting, stair climber, elliptical machine etc | As we assumed most users would be engaging in regular exercise this would be one of the key features to introduce in an initial release  | High | 
@@ -306,8 +250,9 @@ We followed the same colour scheme on from the Landing Page, using the same imag
   </div>
 </div>
 
-| Tool/Technology | Use | Pros | Cons | 
-| Mobile Development Software |
+| **Tool/Technology | Use | Pros | Cons** |
+| :---: | :---: | :---: | :---: |
+|| Mobile Development Software ||
 | Zoho Creater | https://www.zoho.com/creator/ Cloud software that creating app without coding experience or IT knowledge | * Low-code skills needed to create complex process * Easy to learn * Best for simple form design software * Updates are on time | * A bit tricky for integrations with 3rd party software * Layout customizations very limited * A nit expensive when you need to give access to many users * Need to have better training tools made for non-developer user |
 | AppyPie | https://www.appypie.com/app-builder/appmaker Fast growing cloud based mobile app builder platform | * User-friendly and easy to use * Offer 56 types of features or pages * Easily create an in-app store or link to more than 10 platforms (Amazon, Etsy etc.) | * The templates look a bt dated * Poor UX * Cost is a bit over some competitors * Setup and publishing is tricky |
 | AppSheet | https://www.appsheet.com/ AppSheet is an smart web, no-code app platform for every user | * No Coding Required * Free downloads, not * Easy to build the application * Good support available in community or videos | * Development of document reports  * Direct connection to SharePoint Lists * Lack of theme and color ranges for the UI and UX |
