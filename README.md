@@ -1,8 +1,7 @@
-#f1f8ff, $bg-blue-light
 
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-2 d-flex flex-items-center flex-items-center flex-md-items-start">
-    <img class="width-full avatar mb-2 mb-md-0" src="![](images/onegoal.png)" alt="onegoal" />
+    <img class="width-full avatar mb-2 mb-md-0" src="/images/onegoal.png)" alt="onegoal" />
   </div>
   <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
     <h1 class="text-normal lh-condensed">One Goal</h1>
@@ -11,7 +10,7 @@
   </div>
 </div>
 
-
+<span style="color:blue">
 COSC2196 Introduction to Information Technology 
 
 ASSIGNMENT 3: Our Project 
@@ -325,4 +324,4 @@ We decided upon using Appy Pie for Mobile App development. Appy Pie is a softwar
 
 We need a licence to create an app since the software is required to create the app, and the software would need a licence to use the software to be accepted. Licenses differ greatly, however. We may need to set up an account, pay one-time or annual fees, be limited to what can be created or how many copies can be selling, etc.  
 
-For any company with publicly accessible applications, mobile app security assessments are important. It protects the customers and the organisation from potential disasters, trained cybersecurity experts may determine the strength of an application against known and potential threats. The proper tests will give the company a faith in the security of APIs and mobile apps. The security assessment reduces risks, save time, and enforce actionable protection measures to increase safety and comply with compulsory enforcement. 
+For any company with publicly accessible applications, mobile app security assessments are important. It protects the customers and the organisation from potential disasters, trained cybersecurity experts may determine the strength of an application against known and potential threats. The proper tests will give the company a faith in the security of APIs and mobile apps. The security assessment reduces risks, save time, and enforce actionable protection measures to increase safety and comply with compulsory enforcement. </span>.
