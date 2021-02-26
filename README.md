@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body style="background-color:lightblue;">
   
@@ -128,25 +129,25 @@
 
 <p>As of October 2020, Statista.com reported that there were approximately 47,140 various medical health apps available for download on Google Play. These range from simple step trackers and calorie counters to meditation and workout apps. During the 1st quarter of 2020, health and fitness apps were downloaded 593 million times, an impressive 33% higher than the 1st quarter in 2019 (Statista, 2020). The rapid increase in health and fitness app downloads has been driven the COVID19 pandemic, where people were confined to their homes and turned to in home fitness solutions. These figures are anticipated to grow as further gym closures and lockdowns are inevitable. Forbes listed the top 10 health and fitness lifestyle apps in 2020 as follows; </p>
 
-<p> Calm: 8.6 million installs </p>
+<p>1.Calm: 8.6 million installs </p>
 
-<p>Fitbit: 4.8 million installs</p> 
+<p>2.Fitbit: 4.8 million installs</p> 
 
-<p>MyFitnessPal: 3.9 million installs </p>
+<p>3.MyFitnessPal: 3.9 million installs </p>
 
-<p>Headspace: 3.8 million installs</p> 
+<p>4.Headspace: 3.8 million installs</p> 
 
-<p>Flo: 3.6 million installs </p>
+<p>5.Flo: 3.6 million installs </p>
 
-<p>Muscle Booster Workout: 3.4 million installs</p> 
+<p>6.Muscle Booster Workout: 3.4 million installs</p> 
 
-<p>BetterMe: 3.2 million installs </p>
+<p>7.BetterMe: 3.2 million installs </p>
 
-<p>Fitness Coach: 2.9 million installs </p>
+<p>8.Fitness Coach: 2.9 million installs </p>
 
-<p>Samsung Health: 2.8 million installs </p>
+<p>9.Samsung Health: 2.8 million installs </p>
 
-<p>Home Workout - No Equipment: 2.7 million installs </p>
+<p>10.Home Workout - No Equipment: 2.7 million installs </p>
 
 <p>It was important to note that apps that contained video workouts were downloaded 65% more than non-video based workout apps and also had 40% more active daily users and were able to generate 15% more revenue (Koetsier, 2020). Many of these apps focus heavily on a specific criteria, Fitbit, MyFitnessPal, Fitness Coach, Home Workout and Muscle Booster workout focus on improving fitness through exercise and offer a plethora of video workouts through the app. Apps such as Better me and Flo are targeted towards women’s health specifically. </p> 
 
@@ -381,6 +382,109 @@
 
 <p>For any company with publicly accessible applications, mobile app security assessments are important. It protects the customers and the organisation from potential disasters, trained cybersecurity experts may determine the strength of an application against known and potential threats. The proper tests will give the company a faith in the security of APIs and mobile apps. The security assessment reduces risks, save time, and enforce actionable protection measures to increase safety and comply with compulsory enforcement. </p> 
 
+
+<h4>5.App Development</h4>
+
+<P>The app development for our product through Appy Pie is divided into 4 stages as below.</p>
+
+<P>Stage 1: Choose our app name. The name of our app is One Goal. It is reflected in our brand image as a fitness app.</p> 
+
+<P>Stage 2: Select a colour scheme. Once the name has been decided, we are working on the colour of our app, and we choose Go Ocean as we believe in attracting the attention of the customers.</p> 
+
+<P>Stage 3: Customise the app design. We believe that the way the app look is very important. We customise our app icon, font and colour and app layout to suit our target audience and readable for the app user.</p> 
+
+<P>Stage 4: Choose the test device and install the app on the device. This is the most exciting part in building an app. As we get to see the actual app that go live and see the result of our efforts.</p> 
+
+ 
+
+<h4>6. Internal Testing</h4> 
+
+<p>Although Testing phases were not reached, we discussed the options for both internal testing and user interface testing. Application testing can be performed in different categories, such as GUI, features, database (backend) and load test. The testing lifecycles include different application testing stages, including requirement analysis, test preparation, test analysis, test design, test execution and bug reporting. There are four stages of a life cycle in Application Testing that we put in the project. </p>
+
+<p>Design test plans based on specifications for applications.</p> 
+
+<p>Develop manual test cases and scripts for automated testing.</p>  
+
+<p>Verify application specifications, perform practical tests.</p> 
+
+<p>Conduct load tests and tune the output of the application.</p>  
+
+ 
+
+<h4>7. User Interface Testing</h4> 
+
+<p>The landing page we created will capture interested parties and the google form on the landing page asked respondents if they would be willing to participate in user testing. Those that answered yes and had used a health and fitness app before would be chosen as Beta users. This would allow us to allocate a group with a vested interest in usability. Beta users would complete feedback forms, and one on one open forums to discuss usability of product and any usability issues.</p>  
+
+ 
+
+<h4>8. Launch </h4>
+
+<p>The Launch of the App would occur in the 15th week of development. Promotional material should have been released through partner sites prior to launch to generate interest. Prior to Launch the team would need to ensure the app is fully functional, all testing issues have been resolved and support staff are available at go live. Ensuring the App is available on Google Play and Apple Store platforms for download by consumers at the advertised date and time will be imperative. In the first week closely monitor customer feedback to gain insight into possible features in later versions and ensure technical issues are dealt with quickly </p> 
+
+ 
+
+<h4>9. Support </h4> 
+
+<p>Support of the app starts the day the app is launched. Technical issues would need to be trouble shooted and customer feedback would need to be very closely monitored in the weeks following a 1.0 release. At this stage the team would start working on features previously identified for a 2.0 release.</p> 
+
+ 
+
+<h4>Roles</h4> 
+
+<p>The allocation of roles was particularly difficult during this project as there were only 2 team members. This meant that we broke most of the tasks into two key areas. Project Management and planning, and technical development. Kristie acted more in a project lead capacity and oversaw all aspects of the project and provided direction. Kristie was responsible for the administration (preparing all documents and leading meetings etc), strategy, developing a build pipeline, developing design prototypes, report righting, and developing the landing page. Belle acted in the capacity of a technical developer and was responsible for the technical aspects and managed the GitHub Repository, researching available tools and technology, and the initial App development. Had more team members been available the roles would have involved allocation of less tasks but required further detail and development, or more specific roles been allocated however given the limited resources it was imperative that we rely on our strengths. Kristie’s strengths were leadership, strategy, planning and design while Belle's strengths were in technical development and coding. By splitting the tasks down the middle, the overall project become slightly more manageable.</p>  
+
+
+
+<h4>Risks</h4> 
+
+<p>For any company creating a mobile app, the worst nightmare: producing an app that their customers don't even want. Most companies fall into the pit of designing an application from their own viewpoint, not the customer's perspective. Spending thousands of dollars and months are needed for creating an app. If no one utilises the app, it's all wasted. When you approach the production of mobile apps from the wrong angle, this happens.  It is a good habit to seek feedback from consumers and consider what kind of feature and functionality they will be looking for in a mobile experience. Moreover, it would be useful to understand who our customer, age and gender.</p> 
+
+
+<p>We see another problem on the opposite end of the spectrum: What happens if so many people start using your app? What if it takes off quicker than you'd ever anticipated? You could be trapped with hundreds of thousands of users helping you. Are you ready for that? A small team like us may build an app that is then used by thousands of people or even millions; providing service and support to increasing numbers of end-users is becoming entirely unscalable, leading to angry or confused end users who either leave a negative review of the App Store and/or remove the app. As with any modern technology, internal applications generate new burdens for IT to support users individually when they have problems. Via creating custom FAQs, using shared inboxes, bulk actions, and incorporating in-app help desks into the app, some solutions for both internal and external apps include automating the service and support method.</p> 
+
+  
+<p>Lastly, the security breaches are nothing new and extend to every site form or mobile app. The risk and vulnerabilities here lie in underestimating the need inside the apps for proper security precautions. Some businesses are making the mistake of thinking that automatically stable apps are and ignore proper security measures. Despite many of the same security vulnerabilities as web apps, many mobile developers believe that mobile devices are more secure by nature and do not go through the same security-vetting process as other applications. These weak security protocols, using attacks such as SQL injection, can lead to data compromises or even infrastructural breaches on the server-side.</p>
+
+<h4>Group Processes & Communication</h4>
+
+<p>The communication and group process in our team is through MS team sharing files, chats and 30 mins meetings twice a week. We divided the 6 people's work into 2 people as the team member were down from week one that we started the project. The complication of understanding and frustration was there, but we managed through and completes the project. We keep our communicating with our Unit Adviser, Anthony and our grader, Thomas. We managed a lot of organising the meeting, writing the report, Mockup the app design and the product page. We found numeral of the greatest resources on the internet, and we implemented them into our project.</p>
+
+<h2>SKILLS & JOBS</h2> 
+
+<h4>Project Lead (Tech)</h4> 
+
+<p>In order to ensure the team remains focused, organized and committed, the most crucial appointment would be an experienced project lead. The Project lead will be responsible for the planning coordination, requirements gathering, business analysis, specifications development, monitoring, reporting, and leadership of the project. They will prove a key link between the team and investors and should have experience with high level stakeholders. The ideal candidate would have a proven track record of leading small teams in the development of a native mobile application.</p> 
+
+<h4>Position Description</h4> 
+<table>
+  <tr>
+    <th>Tool/Technology</th>
+    <th>Use</th>
+    <th>Pros</th>
+    <th>Cons</th>
+  <tr>
+    <td>Recommended 2 GHz Dual Core or more</td>
+    <td>Dual core 2 GHz is referring as “the brain” of a computer. The speed is part of important to keep the computer functional.</td>
+    <td>1. Applications that support multi-threading will greatly benefit from having a higher number of cores at their disposal 
+        2. Increasing the number of cores in your CPU is a cost-effective way of increasing performance 
+        3. Multi-threading support for applications will continue to improve over time 
+        4. You will be able to run more apps at once without seeing performance drops 
+        5. Great for running multiple virtual machines</td>
+    <td>1. Lower single-threaded performance than a higher clock speed processor</td>
+  </tr>
+  <tr>
+    <td>Ethernet connection</td>
+    <td>Ethernet connection is used to provide an internet connection, connect devices to a local network. The most common use for an Ethernet cable is connecting a WiFi router or modem to the internet entry port or telephone line</td>
+    <td>1. Speed 
+        2. Security 
+        3. Reliable 
+        4. Efficiency</td>
+    <td>1. Mobility
+        2. Expandability
+        3. Connection 
+        4. Installation</td>
+  </tr>
+<table>
 
 
 </body>
