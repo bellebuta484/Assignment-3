@@ -92,12 +92,12 @@ DATE OF SUBMISSION :
 
 **Kristie Magazinovic** 
 
-Github Page:  [Personal page](https://kristiem88.github.io/Assignment1/)                                                                               
+[Personal page](https://kristiem88.github.io/Assignment1/)                                                                               
 I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a farm and enjoy horse riding, camping, travelling, and spending time with my dogs. I also sing and play guitar in my spare time (cheaper than therapy) 
 
 **Phimonrat Panaphong** 
 
-GitHub Page:  [Personal Page](https://bellebuta484.github.io/My_PROFILE_20/) 
+[Personal Page](https://bellebuta484.github.io/My_PROFILE_20/) 
 I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business Management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who brings laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife 
 
 # Group Processes 
@@ -121,6 +121,65 @@ Team members will provide feedback on other members work to ensure any missing c
 Any uncertainty in an element of the assignment will be immediately deferred to the course tutor by sending an email.
 
 # Career Plans 
+
+<div class="d-table col-12">
+  <div class="col-4 d-table-cell border p-2">
+    Team Member
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Idea Job
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Deman for Role
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Job Descriotion
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Similarities
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Differences
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    General Skills Required
+   </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    IT Skills Required
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Final Opinion On Role
+  </div>
+</div>
+<div class="d-table col-12">
+  <div class="col-4 d-table-cell border p-2">
+    Team Member
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Idea Job
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Deman for Role
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Job Descriotion
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Similarities
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Differences
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    General Skills Required
+   </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    IT Skills Required
+  </div><!--
+  --><div class="col-4 d-table-cell border p-2">
+    Final Opinion On Role
+  </div>
+</div>
 
 | Team Member | Idea Job | Demand for Role | Job Description | Similarities | Differences | General Skills Required | IT Skills Required | Final Opinion on Role |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
