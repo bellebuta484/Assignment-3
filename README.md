@@ -505,8 +505,8 @@
   <tr><td>Designer</td></tr>
   <tr><td>Mobile Developer</td></tr>
   <tr>
-    <td>Software Provider</td>
-    <td>Investors</td>
+    <td>Software Provider</td></tr>
+  <tr><td>Investors</td>
     
   </tr>
 </table>
