@@ -3,7 +3,7 @@
 <body style="background-color:grey;">
 <style>
 body {
-  background-image: url('https://lh6.googleusercontent.com/Jl-bSCi-8-SyQlawumLq3zJE3IuphZ7Ly461GzdWitiOmElfH4doTcvhjRCUcXw4mh7ABJIS6pFOd7m2jbscQqv2m36uL-Rd1VoxjeSi-dp79-Kv26MgyFsx9gzoYbSmiw=w1280');
+  background-image: url('https://www.sapphirebeachphysio.com/wp-content/uploads/2020/09/Runner-Woopi-Physio-Sapphire-Beach-Physio-Physiotherapist-at-Woolgoolga.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
@@ -11,18 +11,13 @@ body {
 </style>
 
 
-<p>COSC2196 Introduction to Information Technology</p> 
-
+<p><b>COSC2196 Introduction to Information Technology</b></p> 
 <p>ASSIGNMENT 3: Our Project</p>
-
-<p>GROUP:				Group 1 (One Goal)</p>
-
+<p>GROUP:	Group 1 (One Goal)</p>
 <p>STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709)</p>
-
-<p><ahref="https://github.com/bellebuta484/Assignment-3.git">Visit Our Git Repo!</a></p>
-
-<p>TEAM NAME: 			One Goal</p>
-
+<p><a href="https://github.com/bellebuta484/Assignment-3.git">Visit Our Git Repo!</a></p>
+<p><a href="https://bellebuta484.github.io/Assignment-3/#aim">Visit Our Wepsite!</a></p>
+<p>TEAM NAME: One Goal</p>
 <p>DATE OF SUBMISSION :	26 February, 2021</p> 
 
 <h6>Kristie Magazinovic</h6> 
