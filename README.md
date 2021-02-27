@@ -25,7 +25,7 @@ body {
 <p><a href="https://kristiem88.github.io/Assignment1/">Personal Page!</a></p>                                                                              
 <p>I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a farm and enjoy horse riding, camping, travelling, and spending time with my dogs. I also sing and play guitar in my spare time (cheaper than therapy)</p> 
 
-<h6>Phimonrat Panaphong</h6> 
+<h4>Phimonrat Panaphong</h4> 
 
 <p><a href="https://bellebuta484.github.io/My_PROFILE_20/">Personal Page!</a></p>
 <p>I am originally from Bangkok, Thailand and live in Sydney, Australia. I am 37-year-old. I graduated with a Bachelor's degree in international business Management from Thailand and had completed a Diploma in Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, and I am fair-minded, optimistic, hilarious, spontaneous, and honest. I am married to Ecuadorian-Australian who brings laugher to the family. We have two gorgeous girls. They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and try my best to be mom, student and wife</p> 
@@ -102,8 +102,6 @@ body {
   
 <h2>PROJECT OVERVIEW</h2>  
 
- <p><img alt="" src="images/LandingPageOneGoal.jpg " /></p> 
-
 <h3> Topic  </h3>
 
 <p>Initially the project centred around the development of an all-in-one fitness app that allows people to track and monitor their fitness goals. This app would provide users with customizable workout plans, weight management goals and track calorie intake.  It would also track fitness goals by storing information on a large list of exercises such as, weightlifting (Including weight and reps), running, Pilates, swimming, yoga, rowing, stretching, and hiking etc. We aimed to build an app that would meet existing shortfalls in similar products, however given the time constraints we limited these to a few key elements with the remaining to be considered in later versions. We had originally attempted to include an extensive list of items such as tailored workout programs, the ability to stream workouts and store nutritional information however given the restrictive timeline and the team only consisting of 2 members we drastically reduced the scope. </P> 
@@ -147,8 +145,6 @@ body {
 
 <h3> Aim  </h3>
 
-<p><img alt="" src="images/LandingPageOneGoal.jpg " /></p>
-
 <p>The primary aim of this project is to produce a health and fitness app that meets the specific requirements of the target audience. These requirements are to manage weight loss and weight maintenance, set specific food intake goals and track calories and macronutrient intakes and set exercise goals and track physical performance. In order to achieve our overarching, aim we developed a list of tangible goals to support the development of our mobile app over the 15 week period as follows: </p>
 
 <p><b>Define Scope</b>  : While the aim is to build an all-encompassing health and fitness app the 15 week timeframe will not allow for all desired items to be made available in the 1.0 release. Therefore, a thorough need analysis will be carried out to prioritise all desired features. All potential app features will be prioritised with the most important being included in the initial release and further features being listed for later 2.0 and 3.0 releases. This will ensure the size of the project is more manageable, focus is maintained, and a viable product is available for release by the end of the 16 weeks.</p>
@@ -160,9 +156,6 @@ body {
 <h3> Plans and Progress. </h3>
 
 <p> In order to ensure we planned our time efficiently and had a clear concise idea of how our project would be managed the first step we undertook was to research the phases involved in Mobile App development and the time each phase would reasonably take to complete. We developed the following Mobile App Project Phase Pipeline to aid in adequate project management.</p> 
-
-   <p><img alt="" src="images/TimelinesOneGoal.jpg " /></p>
-
 
 <h3> 1. Define Concept </h3>
 
@@ -255,10 +248,6 @@ body {
 <p>Personal Profile Page: This include all information on the user such as name, email address, weight, age, height, fitness level etc.  </p> 
 
 <p>Home Page: Opening page of the App. This will show name, photo, and loaded features such as Weight Management App, Calorie Counter, Activity and Step Tracker. The user can customise the view by moving the features up or down the page </p> 
-
-<p><img alt="" src="images/OneGoalLogin.jpg " /></p> <p><img alt="" src="images/TrackingPage.jpg " /></p> <p><img alt="" src="images/ResultPage.jpg " /></p>
-
-
 
 <h3> 4. Choose Technology </h3>
 
@@ -803,6 +792,8 @@ body {
 <h3>APPENDIX</h3> 
 
 <p>Appendix 1 – Landing Page</p> <p><a href="https://sites.google.com/view/onegoal/home">VisitOurPage</a></p> 
+
+<p><img alt="" src="images/LandingPageOneGoal.jpg " /></p>
 
 <p>Appendix 2 – Sign up Page Prototype Design </p><a href="http://localhost:21303/5209597765002352418/index.html#/screens/c6a10a33-b94c-4720-957a-4ba12e2e3b1b"> I'm located here</a></p>
 
