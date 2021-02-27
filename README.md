@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:blue;">
-  
-<div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
-  <div class="col-2 d-flex flex-items-center flex-items-center flex-md-items-start">
-    <img class="width-full avatar mb-2 mb-md-0" src="/images/onegoal.png" alt="onegoal" />
-  </div>
-  <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
-    <h1 class="text-normal lh-condensed">One Goal</h1>
-    <p class="h4 text-gray text-normal mb-2">Our Idea Project</p>
-    <a class="text-gray text-small" href="#url">https://bellebuta484.github.io/Assignment-3/</a>
-  </div>
-</div>
-
+<body style="background-color:grey;">
 <style>
 body {
   background-image: url('https://lh6.googleusercontent.com/Jl-bSCi-8-SyQlawumLq3zJE3IuphZ7Ly461GzdWitiOmElfH4doTcvhjRCUcXw4mh7ABJIS6pFOd7m2jbscQqv2m36uL-Rd1VoxjeSi-dp79-Kv26MgyFsx9gzoYbSmiw=w1280');
