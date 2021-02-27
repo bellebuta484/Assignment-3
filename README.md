@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:verylightblue;">
+<body style="background-color:blue;">
   
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-2 d-flex flex-items-center flex-items-center flex-md-items-start">
@@ -13,6 +13,14 @@
   </div>
 </div>
 
+<style>
+body {
+  background-image: url('https://lh6.googleusercontent.com/Jl-bSCi-8-SyQlawumLq3zJE3IuphZ7Ly461GzdWitiOmElfH4doTcvhjRCUcXw4mh7ABJIS6pFOd7m2jbscQqv2m36uL-Rd1VoxjeSi-dp79-Kv26MgyFsx9gzoYbSmiw=w1280');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
 
 
 <p>COSC2196 Introduction to Information Technology</p> 
@@ -115,7 +123,6 @@
 
 <h3> Topic  </h3>
 
-<div style="background-image: src="/images/LandingPageOneGoal.jpg";">
 <p>Initially the project centred around the development of an all-in-one fitness app that allows people to track and monitor their fitness goals. This app would provide users with customizable workout plans, weight management goals and track calorie intake.  It would also track fitness goals by storing information on a large list of exercises such as, weightlifting (Including weight and reps), running, Pilates, swimming, yoga, rowing, stretching, and hiking etc. We aimed to build an app that would meet existing shortfalls in similar products, however given the time constraints we limited these to a few key elements with the remaining to be considered in later versions. We had originally attempted to include an extensive list of items such as tailored workout programs, the ability to stream workouts and store nutritional information however given the restrictive timeline and the team only consisting of 2 members we drastically reduced the scope. </P> 
 
 <p>We first aimed to set a realistic time frame for the project from concept to launch. To do so we developed 9 distinct phases to cover a 15 week period for app development. These phases were broken down into 1. Concept definition, 2. Need Analysis, 3. Design, 4. Choosing Technology, 5. App Development, 6. Internal functionality testing, 7. User Acceptability testing, 8. Launch and 9. Support. Given the scope the project outlined in the following report led the team to the very start of the app development stage the 6 weeks covered phases 1 – 4 with the remaining phases to be carried out in the subsequent 10 weeks. The aim by the end of this project was to have defined the concept, determined key features for version 1.0 of the app, design mock ups of the user interface, research all available technologies (including software and hardware) and determine the most suitable options for app development and enter the very early stages of app development </p>  
@@ -784,31 +791,31 @@
 
 <h3>REFERENCES</h3> 
 
-Capital Numbers (2019), ‘Why business need Mobile App Development in the current market’ Available from: https://www.capitalnumbers.com/blog/why-businesses-need-mobile-app-development/  [Accessed on 18 Feb,2021]  
+<p>Capital Numbers (2019), ‘Why business need Mobile App Development in the current market’ Available from: https://www.capitalnumbers.com/blog/why-businesses-need-mobile-app-development/  [Accessed on 18 Feb,2021] </p> 
 
-Global News Wire (February 18, 2021), Fitness App Market Revenue USD 298.30 Billion by 2026 with a 31.25% CAGR | Global Fitness Apps Market to Benefit from COVID-19 Pandemic, Global News Wire, viewed 19 February 2021, https://www.globenewswire.com/news-release/2021/02/08/2171201/0/en/Fitness-App-Market-Revenue-USD-298-30-Billion-by-2026-with-a-31-25-CAGR-Global-Fitness-Apps-Market-to-Benefit-from-COVID-19-Pandemic.html  
+<p>Global News Wire (February 18, 2021), Fitness App Market Revenue USD 298.30 Billion by 2026 with a 31.25% CAGR | Global Fitness Apps Market to Benefit from COVID-19 Pandemic, Global News Wire, viewed 19 February 2021, https://www.globenewswire.com/news-release/2021/02/08/2171201/0/en/Fitness-App-Market-Revenue-USD-298-30-Billion-by-2026-with-a-31-25-CAGR-Global-Fitness-Apps-Market-to-Benefit-from-COVID-19-Pandemic.html</p> 
 
-Forrester (February 24, 2021), Why Citi’s $500M Mistake Is Really A Design Debt Interest Payment, Forbes, Viewed 24 February 2021,  https://www.forbes.com/sites/forrester/2021/02/24/why-citis-500m-mistake-is-really-a-design-debt-interest-payment/?sh=27cf6d459002  
+<p>Forrester (February 24, 2021), Why Citi’s $500M Mistake Is Really A Design Debt Interest Payment, Forbes, Viewed 24 February 2021,  https://www.forbes.com/sites/forrester/2021/02/24/why-citis-500m-mistake-is-really-a-design-debt-interest-payment/?sh=27cf6d459002</p>   
 
-Goodfirm (2021), ‘Top App Development Software’, Available from: https://www.goodfirms.co/app-development-software/ [Accessed on 15 Feb,2021]   
+<p>Goodfirm (2021), ‘Top App Development Software’, Available from: https://www.goodfirms.co/app-development-software/ [Accessed on 15 Feb,2021]</p>    
 
-Haynes R (Date unknown), Choosing the Right Technology for Your Mobile App Strategy, Signal, viewed 19 February 2021, https://signalinc.com/choosing-the-right-technology-for-your-mobile-app-strategy/  
+<p>Haynes R (Date unknown), Choosing the Right Technology for Your Mobile App Strategy, Signal, viewed 19 February 2021, https://signalinc.com/choosing-the-right-technology-for-your-mobile-app-strategy/ </p>  
 
-Koetsier J (October 5, 2020), The Top 10 Health & Fitness Apps Of 2020 Have One Thing In Common (Mostly), Forbes, viewed 12 February 2021, https://www.forbes.com/sites/johnkoetsier/2020/10/05/the-top-10-health--fitness-apps-of-2020-have-one-thing-in-common-mostly/?sh=1b86c2726d60  
+<p>Koetsier J (October 5, 2020), The Top 10 Health & Fitness Apps Of 2020 Have One Thing In Common (Mostly), Forbes, viewed 12 February 2021, https://www.forbes.com/sites/johnkoetsier/2020/10/05/the-top-10-health--fitness-apps-of-2020-have-one-thing-in-common-mostly/?sh=1b86c2726d60 </p>  
 
-Maricar Morga (2021), ‘the best programming languages for your mobile app development’ Available from: http://zesium.com/the-best-programming-languages-for-your-mobile-app-development/ [Accessed on 19 Feb,2021   
+<p>Maricar Morga (2021), ‘the best programming languages for your mobile app development’ Available from: http://zesium.com/the-best-programming-languages-for-your-mobile-app-development/ [Accessed on 19 Feb,2021 </p>   
 
-Michaels Ross (2018), ‘7 Hidden Risk of Native App Development’ Available from: https://www.mrc-productivity.com/blog/2013/11/7-hiddens-risks-of-native-mobile-app-development/ [Accessed on 24 Feb, 2021] 
+<p>Michaels Ross (2018), ‘7 Hidden Risk of Native App Development’ Available from: https://www.mrc-productivity.com/blog/2013/11/7-hiddens-risks-of-native-mobile-app-development/ [Accessed on 24 Feb, 2021] </p> 
 
-Statista, October 2020, Number of mHealth apps available at Google Play from 1st quarter 2015 to 3rd quarter 2020, Statista, viewed 11 February 2021,  https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/#:~:text=This%20statistic%20displays%20the%20number,increase%20over%20the%20previous%20quarter.  
+<p>Statista, October 2020, Number of mHealth apps available at Google Play from 1st quarter 2015 to 3rd quarter 2020, Statista, viewed 11 February 2021,  https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/#:~:text=This%20statistic%20displays%20the%20number,increase%20over%20the%20previous%20quarter.</p>   
 
-Varshneya R (June 13, 2019), A Step-by-Step Guide To Building Your First Mobile App, Entrepreneur Asia Pacific, viewed 19 February 2021, https://www.entrepreneur.com/article/231145  
+<p>Varshneya R (June 13, 2019), A Step-by-Step Guide To Building Your First Mobile App, Entrepreneur Asia Pacific, viewed 19 February 2021, https://www.entrepreneur.com/article/231145 </p>  
 
 <h3>APPENDIX</h3> 
 
-<p>Appendix 1 – Landing Page</p> <p><a href="https://sites.google.com/view/onegoal/home">Visit Our Landing Page!</a></p> 
+<p>Appendix 1 – Landing Page</p> <p><a href="https://sites.google.com/view/onegoal/home">VisitOurPage!</a></p> 
 
-<p><img alt="" src="/images/LandingPageOneGoal.jpg" width="500" height="600" /></p>
+<p><img alt="" src="/images/LandingPageOneGoal.jpg"/></p>
  
 
 
