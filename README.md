@@ -15,8 +15,8 @@ body {
 <p>ASSIGNMENT 3: Our Project</p>
 <p>GROUP:	Group 1 (One Goal)</p>
 <p>STUDENTS: 	Kristie Magazinovic (S3807456), Phimonrat Panaphong (Belle) (S3885709)</p>
-<p><a href="https://github.com/bellebuta484/Assignment-3.git">Visit Our Git Repo!</a></p>
-<p><a href="https://bellebuta484.github.io/Assignment-3/#aim">Visit Our Wepsite!</a></p>
+<p><a href="https://github.com/bellebuta484/Assignment-3.git">Visit Our Git Repo</a></p>
+<p><a href="https://bellebuta484.github.io/Assignment-3/#aim">Visit Our Wepsite</a></p>
 <p>TEAM NAME: One Goal</p>
 <p>DATE OF SUBMISSION :	26 February, 2021</p> 
 
@@ -53,8 +53,6 @@ body {
 
 
 <h2>Career Plans </h2>
-
-
 
 <table>
   <tr>
@@ -104,6 +102,8 @@ body {
   
 <h2>PROJECT OVERVIEW</h2>  
 
+ <p><img alt="" src="images/LandingPageOneGoal.jpg " /></p> 
+
 <h3> Topic  </h3>
 
 <p>Initially the project centred around the development of an all-in-one fitness app that allows people to track and monitor their fitness goals. This app would provide users with customizable workout plans, weight management goals and track calorie intake.  It would also track fitness goals by storing information on a large list of exercises such as, weightlifting (Including weight and reps), running, Pilates, swimming, yoga, rowing, stretching, and hiking etc. We aimed to build an app that would meet existing shortfalls in similar products, however given the time constraints we limited these to a few key elements with the remaining to be considered in later versions. We had originally attempted to include an extensive list of items such as tailored workout programs, the ability to stream workouts and store nutritional information however given the restrictive timeline and the team only consisting of 2 members we drastically reduced the scope. </P> 
@@ -147,6 +147,8 @@ body {
 
 <h3> Aim  </h3>
 
+<p><img alt="" src="images/LandingPageOneGoal.jpg " /></p>
+
 <p>The primary aim of this project is to produce a health and fitness app that meets the specific requirements of the target audience. These requirements are to manage weight loss and weight maintenance, set specific food intake goals and track calories and macronutrient intakes and set exercise goals and track physical performance. In order to achieve our overarching, aim we developed a list of tangible goals to support the development of our mobile app over the 15 week period as follows: </p>
 
 <p><b>Define Scope</b>  : While the aim is to build an all-encompassing health and fitness app the 15 week timeframe will not allow for all desired items to be made available in the 1.0 release. Therefore, a thorough need analysis will be carried out to prioritise all desired features. All potential app features will be prioritised with the most important being included in the initial release and further features being listed for later 2.0 and 3.0 releases. This will ensure the size of the project is more manageable, focus is maintained, and a viable product is available for release by the end of the 16 weeks.</p>
@@ -159,7 +161,7 @@ body {
 
 <p> In order to ensure we planned our time efficiently and had a clear concise idea of how our project would be managed the first step we undertook was to research the phases involved in Mobile App development and the time each phase would reasonably take to complete. We developed the following Mobile App Project Phase Pipeline to aid in adequate project management.</p> 
 
-<p><img alt="" src="images/TimelinesOneGoal.jpg " /></p>
+   <p><img alt="" src="images/TimelinesOneGoal.jpg " /></p>
 
 
 <h3> 1. Define Concept </h3>
@@ -253,6 +255,10 @@ body {
 <p>Personal Profile Page: This include all information on the user such as name, email address, weight, age, height, fitness level etc.  </p> 
 
 <p>Home Page: Opening page of the App. This will show name, photo, and loaded features such as Weight Management App, Calorie Counter, Activity and Step Tracker. The user can customise the view by moving the features up or down the page </p> 
+
+<p><img alt="" src="images/OneGoalLogin.jpg " /></p> <p><img alt="" src="images/TrackingPage.jpg " /></p> <p><img alt="" src="images/ResultPage.jpg " /></p>
+
+
 
 <h3> 4. Choose Technology </h3>
 
@@ -468,10 +474,10 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
+<h5 style="background-color:Grey;">SCOPE OF POSITION</h5>
 <p>The Tech Project Lead is pivotal to achieving our strategic vision for a new lifestyle Health and Fitness Mobile app. Reporting to the Project Owner, your role will be to manage a team of 3 developers/designers and execute the vision of our App. You will be responsible for all app development tasks including front end development, back end development, design, testing and maintenance. You will also be required to prepare and meet financial targets related to app development and ensure development timeframes are met at a minimum.</p>
 
-<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
+<h5 style="background-color:Grey;">POSITION RESPONSIBILITIES</h5>
 <ul>
   <li>Mentor and lead a small, dedicated team of 3 (Mobile App Developer, Full Stack Developer and Designer)</li>
   <li>Oversee all day to day operations from coding, build pipeline, certificate management, security, testing and optimizing performances across Android and iOS platforms. </li>
@@ -484,7 +490,7 @@ body {
   <li>Develop and oversee a Post “Go Live” maintenance regime </li>  
 </ul>  
 
-<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
+<h5 style="background-color:Grey;">KEY STAKEHOLDERS</h5>
 <table style="width:100%">
   <tr>
     <th>Internal</th>
@@ -504,7 +510,7 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<h5 style="background-color:grey;">QUALIFICATIONS & EXPERIENCE</h5>
 <ul>
   <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field.(Postgraduate qualifications Highly regarded)</li> 
   <li>5 + years experience in software development, specifically in front end technologies and mobile app development</li>   
@@ -516,7 +522,7 @@ body {
   <li>Knowledge of Agile and/or Scrum project methodologies highly regarded.</li> 
 </ul>
 
-<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<h5 style="background-color:grey;">KEY SKILLS & COMPETENCIES</h5>
 <ul>
   <li>Superior knowledge and depth of understanding working with mobile architecture and design patterns. (Knowing technology limitations and where improvements can be made)</li> 
   <li>Up to date knowledge of current API integration and industry standard authentication and security standards.</li>   
@@ -552,10 +558,10 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
+<h5 style="background-color:grey;">SCOPE OF POSITION</h5>
 <p>The Full Stack developer is a crucial role to the development of the health and fitness mobile app. Reporting to the Technical Project Lead, your role will be to lead technical development focusing primarily on back end and supporting front end development. You will also be required to prepare technical reports and serve as the key support role for the Technical Project Lead.  </p>
  
-<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
+<h5 style="background-color:grey;">POSITION RESPONSIBILITIES</h5>
 <ul>
   <li>Support Technical Project Lead in all aspects of technical development and serve as 2IC where required.</li>
   <li>Data Management </li>
@@ -567,7 +573,7 @@ body {
   <li>Manage all aspects of Quality Assurance. </li>
 </ul>
 
-<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
+<h5 style="background-color:grey;">KEY STAKEHOLDERS</h5>
 <table style="width:100%">
   <tr>
     <th>Internal</th>
@@ -587,7 +593,7 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<h5 style="background-color:Grey;">QUALIFICATIONS & EXPERIENCE</h5>
 <ul>
   <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field. (Postgraduate qualifications Highly regarded) </li>
   <li>Minimum 5 years of Mobile App development experience </li>
@@ -595,7 +601,7 @@ body {
   <li>Experience using MySQL, Python, Java, MongoBD and MySQL. </li>
 </ul>
 
-<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<h5 style="background-color:Grey;">KEY SKILLS & COMPETENCIES</h5>
 <ul>
   <li>Excellent Communication and collaboration skills.</li> 
   <li>Ability to solve integration issues to provide solutions that meet requirements while remaining within engineering limitations. </li>
@@ -632,10 +638,10 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
+<h5 style="background-color:Grey;">SCOPE OF POSITION</h5>
 <p>The Mobile App Developer (Front End) is a key role to the user interface development of the health and fitness mobile app. Reporting to the Technical Project Lead, your role will be to lead technical development focusing primarily on front end development tasks.   </p>
  
-<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
+<h5 style="background-color:Grey;">POSITION RESPONSIBILITIES</h5>
 <ul>
   <li>Own all aspects of front end development with a keen focus on the customer experience  </li>
   <li>Work closely with UI/UX designer to bring design mockups, wireframes and overall design concepts to life.</li> 
@@ -646,7 +652,7 @@ body {
   <li>Work across both iOS and Android apps.</li> 
 </ul>
 
-<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
+<h5 style="background-color:Grey;">KEY STAKEHOLDERS</h5>
 <table style="width:100%">
   <tr>
     <th>Internal</th>
@@ -666,14 +672,14 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<h5 style="background-color:Grey;">QUALIFICATIONS & EXPERIENCE</h5>
 <ul>
   <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field. </li>
   <li>Minimum 2 years of front-end Mobile App development experience. </li>
   <li>Proven experience building, testing and releasing mobile apps Focusing on front end development. </li>
 </ul>
 
-<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<h5 style="background-color:Grey;">KEY SKILLS & COMPETENCIES</h5>
 <ul>
   <li>Excellent Communication and collaboration skills. </li>
   <li>Strong understanding of JavaScript programming (jQuery and native) </li>
@@ -703,10 +709,10 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">SCOPE OF POSITION</h5>
+<h5 style="background-color:Grey;">SCOPE OF POSITION</h5>
 <p>The UI/UX Designer is a pivitol role in ensuring the customer experience is at the forefront of the development process. Reporting to the Technical Project Lead, your role will be to lead user interface design and promote the customer journey. </p>
  
-<h5 style="background-color:Lightgrey;">POSITION RESPONSIBILITIES</h5>
+<h5 style="background-color:Grey;">POSITION RESPONSIBILITIES</h5>
 <ul>
  <li>Own all aspects of UI/UX development with a keen focus on the customer experience </li> 
  <li>Communicate design processes, ideas, and solution to project team members and investors. </li> 
@@ -720,7 +726,7 @@ body {
  <li>Identify and troubleshoot UX problems (e.g. mobile responsiveness and accessibility improvements) </li>  
 </ul>
 
-<h5 style="background-color:Lightgrey;">KEY STAKEHOLDERS</h5>
+<h5 style="background-color:Grey;">KEY STAKEHOLDERS</h5>
 <table style="width:100%">
   <tr>
     <th>Internal</th>
@@ -740,14 +746,14 @@ body {
   </tr>
 </table>
 
-<h5 style="background-color:Lightgrey;">QUALIFICATIONS & EXPERIENCE</h5>
+<h5 style="background-color:Grey;">QUALIFICATIONS & EXPERIENCE</h5>
 <ul>
   <li>Undergraduate qualifications in Computer Science, Information Systems, or related technical field.  </li>
   <li>Experience working on UI/UX development for iOS and Android </li>
   <li>Graphic Design Experience. </li>
 </ul>
 
-<h5 style="background-color:Lightgrey;">KEY SKILLS & COMPETENCIES</h5>
+<h5 style="background-color:Grey;">KEY SKILLS & COMPETENCIES</h5>
 <ul>
   <li>Excellent Communication and collaboration skills. </li>
   <li>Understanding of how UI design is implemented across responsive interfaces and some understanding of the backend system / API integration process.</li> 
@@ -796,9 +802,20 @@ body {
 
 <h3>APPENDIX</h3> 
 
-<p>Appendix 1 – Landing Page</p> <p><a href="https://sites.google.com/view/onegoal/home">VisitOurPage!</a></p> 
+<p>Appendix 1 – Landing Page</p> <p><a href="https://sites.google.com/view/onegoal/home">VisitOurPage</a></p> 
 
-<p><img alt="" src="/images/LandingPageOneGoal.jpg"/></p>
+<p>Appendix 2 – Sign up Page Prototype Design </p><a href="http://localhost:21303/5209597765002352418/index.html#/screens/c6a10a33-b94c-4720-957a-4ba12e2e3b1b"> I'm located here</a></p>
+
+<p><img alt="" src="images/OneGoalLogin.jpg " /></p>
+
+
+<p>Appendix 3– Profile Page Prototype </p><a href="http://localhost:21303/5209597765002352418/index.html#/screens/c2f9a17a-df34-4065-8197-d05649c3921f"> I'm located here</a></p> 
+
+ <p><img alt="" src="images/TrackingPage.jpg " /></p> 
+
+<p>Appendix 4 – Home Page Design Prototype </p><a href="http://localhost:21303/5209597765002352418/index.html#/screens/d12245cc-1680-458d-89dd-4f0d7fb22724"> I'm located here</a></p>  
+
+<p><img alt="" src="images/ResultPage.jpg " /></p>
  
 
 
