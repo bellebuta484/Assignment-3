@@ -20,7 +20,7 @@ body {
 <p>TEAM NAME: One Goal</p>
 <p>DATE OF SUBMISSION :	26 February, 2021</p> 
 
-<h6>Kristie Magazinovic</h6> 
+<h4>Kristie Magazinovic</h4> 
 
 <p><a href="https://kristiem88.github.io/Assignment1/">Personal Page!</a></p>                                                                              
 <p>I am currently studying a Bachelor of Business (Supply Chain and Logistics). Since Covid19 outbreak I decided to scale back on my full-time role as a National Fleet Manager for Hertz and focus on completing my degree. Studying through Open Universities has allowed me to pace my studies however this has been slow with a demanding job. I am now aiming to finish my degree in May 2021. I grew up on a farm and enjoy horse riding, camping, travelling, and spending time with my dogs. I also sing and play guitar in my spare time (cheaper than therapy)</p> 
